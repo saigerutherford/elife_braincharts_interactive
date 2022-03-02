@@ -1,0 +1,7 @@
+pcntoolkit==0.20
+nilearn
+joypy
+seaborn
+matplotlib
+pandas
+numpy

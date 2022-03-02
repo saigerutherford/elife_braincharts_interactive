@@ -1,0 +1,753 @@
+ROI,BrainRegion,EV,MSLL,Skew,Kurtosis,test_label,Label
+lh_G&S_frontomargin_thickness,Lefthemi,0.459450444,-0.616070528,-0.33791427,1.563470138,transfer,lh_G_and_S_frontomargin
+lh_G&S_occipital_inf_thickness,Lefthemi,0.20568357,-0.227756748,0.404229753,0.480094283,transfer,lh_G_and_S_occipital_inf
+lh_G&S_paracentral_thickness,Lefthemi,0.303614765,-0.247227367,0.140820346,-0.038937099,transfer,lh_G_and_S_paracentral
+lh_G&S_subcentral_thickness,Lefthemi,0.294866763,-0.245595987,0.200552486,0.477509335,transfer,lh_G_and_S_subcentral
+lh_G&S_transv_frontopol_thickness,Lefthemi,0.472506761,-0.390981798,-0.083356354,0.796770262,transfer,lh_G_and_S_transv_frontopol
+lh_G&S_cingul-Ant_thickness,Lefthemi,0.524938369,-0.660405214,0.001432116,0.652390812,transfer,lh_G_and_S_cingul-Ant
+lh_G&S_cingul-Mid-Ant_thickness,Lefthemi,0.418816715,-0.339387108,0.060630887,1.34916394,transfer,lh_G_and_S_cingul-Mid-Ant
+lh_G&S_cingul-Mid-Post_thickness,Lefthemi,0.511289747,-0.60701056,0.084115434,1.091240473,transfer,lh_G_and_S_cingul-Mid-Post
+lh_G_cingul-Post-dorsal_thickness,Lefthemi,0.502982256,-0.623623551,-0.174809454,0.16428203,transfer,lh_G_cingul-Post-dorsal
+lh_G_cingul-Post-ventral_thickness,Lefthemi,0.18441263,0.096566051,0.386075372,2.290858284,transfer,lh_G_cingul-Post-ventral
+lh_G_cuneus_thickness,Lefthemi,0.532391758,-0.463925064,0.636025996,0.806803937,transfer,lh_G_cuneus
+lh_G_front_inf-Opercular_thickness,Lefthemi,0.32072589,-0.218261953,0.223819766,0.616026265,transfer,lh_G_front_inf-Opercular
+lh_G_front_inf-Orbital_thickness,Lefthemi,0.377131068,-0.22384749,-0.182058871,1.383313649,transfer,lh_G_front_inf-Orbital
+lh_G_front_inf-Triangul_thickness,Lefthemi,0.430275574,-0.313318476,0.353375248,1.248993506,transfer,lh_G_front_inf-Triangul
+lh_G_front_middle_thickness,Lefthemi,0.431627842,-0.438620533,-0.082941155,1.337408186,transfer,lh_G_front_middle
+lh_G_front_sup_thickness,Lefthemi,0.489991133,-0.50946133,-0.096413547,2.219254693,transfer,lh_G_front_sup
+lh_G_Ins_lg&S_cent_ins_thickness,Lefthemi,0.0,-28.73560899,0.41739395,-0.011108845,transfer,lh_G_Ins_lg&S_cent_ins
+lh_G_insular_short_thickness,Lefthemi,0.351185078,-0.282355407,-0.776579087,1.945644596,transfer,lh_G_insular_short
+lh_G_occipital_middle_thickness,Lefthemi,0.33123426,-0.288896996,-0.23629766,1.03322136,transfer,lh_G_occipital_middle
+lh_G_occipital_sup_thickness,Lefthemi,0.22297305,-0.110532992,0.367269851,-0.082332073,transfer,lh_G_occipital_sup
+lh_G_oc-temp_lat-fusifor_thickness,Lefthemi,0.200115985,-0.407463064,-0.282268214,0.297148953,transfer,lh_G_oc-temp_lat-fusifor
+lh_G_oc-temp_med-Lingual_thickness,Lefthemi,0.623930139,-0.340491933,0.083571153,0.453292399,transfer,lh_G_oc-temp_med-Lingual
+lh_G_oc-temp_med-Parahip_thickness,Lefthemi,-0.058456594,0.019074538,-0.304821292,0.566505205,transfer,lh_G_oc-temp_med-Parahip
+lh_G_orbital_thickness,Lefthemi,0.499135218,-0.451432476,-0.123639402,0.557803226,transfer,lh_G_orbital
+lh_G_pariet_inf-Angular_thickness,Lefthemi,0.373055484,-0.283672548,-0.430104885,0.454444763,transfer,lh_G_pariet_inf-Angular
+lh_G_pariet_inf-Supramar_thickness,Lefthemi,0.358299363,-0.280012771,0.22842467,1.585322231,transfer,lh_G_pariet_inf-Supramar
+lh_G_parietal_sup_thickness,Lefthemi,0.433404895,-0.418441837,0.076386628,0.717988726,transfer,lh_G_parietal_sup
+lh_G_postcentral_thickness,Lefthemi,0.223158645,-0.134058304,0.316591239,0.503672919,transfer,lh_G_postcentral
+lh_G_precentral_thickness,Lefthemi,0.049552642,-0.111913208,-0.592727734,1.995257583,transfer,lh_G_precentral
+lh_G_precuneus_thickness,Lefthemi,0.532465778,-0.490408606,-0.069185544,0.467400203,transfer,lh_G_precuneus
+lh_G_rectus_thickness,Lefthemi,0.399998567,-0.585268196,0.316256642,0.976775248,transfer,lh_G_rectus
+lh_G_subcallosal_thickness,Lefthemi,0.22118467,-0.22691323,-0.067509738,0.435461517,transfer,lh_G_subcallosal
+lh_G_temp_sup-G_T_transv_thickness,Lefthemi,0.379041536,-0.222006843,0.309800449,0.925779861,transfer,lh_G_temp_sup-G_T_transv
+lh_G_temp_sup-Lateral_thickness,Lefthemi,0.006176052,-0.02868575,-0.583871739,1.951101128,transfer,lh_G_temp_sup-Lateral
+lh_G_temp_sup-Plan_polar_thickness,Lefthemi,0.10730043,-0.052627485,-0.621185292,1.570056291,transfer,lh_G_temp_sup-Plan_polar
+lh_G_temp_sup-Plan_tempo_thickness,Lefthemi,0.234984111,-0.165577278,0.220573927,1.361348132,transfer,lh_G_temp_sup-Plan_tempo
+lh_G_temporal_inf_thickness,Lefthemi,0.087785661,-0.346852595,-0.539819238,1.370149282,transfer,lh_G_temporal_inf
+lh_G_temporal_middle_thickness,Lefthemi,0.189988018,-0.111873737,-0.872122521,3.39937446,transfer,lh_G_temporal_middle
+lh_Lat_Fis-ant-Horizont_thickness,Lefthemi,0.136966354,-0.269970354,0.849160197,0.939811326,transfer,lh_Lat_Fis-ant-Horizont
+lh_Lat_Fis-ant-Vertical_thickness,Lefthemi,0.030310982,-0.334543055,-0.723319026,6.948873144,transfer,lh_Lat_Fis-ant-Vertical
+lh_Lat_Fis-post_thickness,Lefthemi,0.480475691,-0.393223889,0.204899234,0.684344456,transfer,lh_Lat_Fis-post
+lh_Pole_occipital_thickness,Lefthemi,-0.038374051,-0.073050075,0.0654558,-0.179360585,transfer,lh_Pole_occipital
+lh_Pole_temporal_thickness,Lefthemi,0.185035033,-0.324566808,-0.715225431,1.180131931,transfer,lh_Pole_temporal
+lh_S_calcarine_thickness,Lefthemi,0.649299218,-0.61332004,0.124058128,0.28707121,transfer,lh_S_calcarine
+lh_S_central_thickness,Lefthemi,0.29921336,-0.51156286,0.219140877,0.42486733,transfer,lh_S_central
+lh_S_cingul-Marginalis_thickness,Lefthemi,0.502899862,-0.734110829,-0.036293783,0.787053484,transfer,lh_S_cingul-Marginalis
+lh_S_circular_insula_ant_thickness,Lefthemi,0.371466801,-0.389058782,0.164003109,0.305533068,transfer,lh_S_circular_insula_ant
+lh_S_circular_insula_inf_thickness,Lefthemi,0.360649718,-0.170272965,-0.188488747,0.734474171,transfer,lh_S_circular_insula_inf
+lh_S_circular_insula_sup_thickness,Lefthemi,0.38565048,-0.588773651,0.031567919,1.690850885,transfer,lh_S_circular_insula_sup
+lh_S_collat_transv_ant_thickness,Lefthemi,0.016904446,-0.081889046,-0.496748568,1.580073596,transfer,lh_S_collat_transv_ant
+lh_S_collat_transv_post_thickness,Lefthemi,0.4352397,-0.527676721,0.53456065,0.957661354,transfer,lh_S_collat_transv_post
+lh_S_front_inf_thickness,Lefthemi,0.397356845,-0.888565681,0.011749089,0.113266544,transfer,lh_S_front_inf
+lh_S_front_middle_thickness,Lefthemi,0.417634772,-0.918984069,0.166765756,0.272816827,transfer,lh_S_front_middle
+lh_S_front_sup_thickness,Lefthemi,0.321370199,-1.015419886,-0.130454699,0.787106599,transfer,lh_S_front_sup
+lh_S_interm_prim-Jensen_thickness,Lefthemi,0.061997472,-0.238369366,1.132655492,2.476692791,transfer,lh_S_interm_prim-Jensen
+lh_S_intrapariet&P_trans_thickness,Lefthemi,0.0,-34.248319,-0.114649559,-0.431376058,transfer,lh_S_intrapariet&P_trans
+lh_S_oc_middle&Lunatus_thickness,Lefthemi,0.0,-29.2510561,-0.05213642,-0.429767693,transfer,lh_S_oc_middle&Lunatus
+lh_S_oc_sup&transversal_thickness,Lefthemi,0.0,-32.49668457,0.004857745,-0.440060656,transfer,lh_S_oc_sup&transversal
+lh_S_occipital_ant_thickness,Lefthemi,0.218249516,-0.336342935,-0.138077579,0.45717875,transfer,lh_S_occipital_ant
+lh_S_oc-temp_lat_thickness,Lefthemi,0.178127162,-0.364021316,0.372827333,2.305450098,transfer,lh_S_oc-temp_lat
+lh_S_oc-temp_med&Lingual_thickness,Lefthemi,0.0,-33.73797014,-0.035931123,-0.50182525,transfer,lh_S_oc-temp_med&Lingual
+lh_S_orbital_lateral_thickness,Lefthemi,0.233670031,-0.628706224,1.191983005,3.889084247,transfer,lh_S_orbital_lateral
+lh_S_orbital_med-olfact_thickness,Lefthemi,0.241495555,-0.278634956,0.493049899,1.503087478,transfer,lh_S_orbital_med-olfact
+lh_S_orbital-H_Shaped_thickness,Lefthemi,0.427170427,-0.623695315,-0.030529108,0.28352325,transfer,lh_S_orbital-H_Shaped
+lh_S_parieto_occipital_thickness,Lefthemi,0.617730917,-0.632829731,-0.06161001,1.103627336,transfer,lh_S_parieto_occipital
+lh_S_pericallosal_thickness,Lefthemi,0.109666219,-0.430897999,0.798168723,0.847950083,transfer,lh_S_pericallosal
+lh_S_postcentral_thickness,Lefthemi,0.339153219,-0.633162542,-0.176980891,0.62101609,transfer,lh_S_postcentral
+lh_S_precentral-inf-part_thickness,Lefthemi,0.114168725,-0.610833796,-0.64160481,2.040072587,transfer,lh_S_precentral-inf-part
+lh_S_precentral-sup-part_thickness,Lefthemi,0.13574994,-0.569490204,-0.480746591,1.343397314,transfer,lh_S_precentral-sup-part
+lh_S_suborbital_thickness,Lefthemi,0.381630627,-0.586858383,0.701436495,2.051400809,transfer,lh_S_suborbital
+lh_S_subparietal_thickness,Lefthemi,0.416255106,-0.681214192,0.210739631,0.699109796,transfer,lh_S_subparietal
+lh_S_temporal_inf_thickness,Lefthemi,0.087382399,-0.256557333,0.267142701,1.224487037,transfer,lh_S_temporal_inf
+lh_S_temporal_sup_thickness,Lefthemi,0.367496982,-0.428286177,-0.076619774,2.6576507,transfer,lh_S_temporal_sup
+lh_S_temporal_transverse_thickness,Lefthemi,0.174038116,-0.106415768,0.624671345,0.963960643,transfer,lh_S_temporal_transverse
+lh_MeanThickness_thickness,Lefthemi,0.582998626,-0.70030899,0.247689479,1.770510539,transfer,lh_MeanThickness
+rh_G&S_frontomargin_thickness,Righthemi,0.564099529,-0.91664542,0.124220582,0.26689949,transfer,rh_G_and_S_frontomargin
+rh_G&S_occipital_inf_thickness,Righthemi,0.096193439,-0.074600678,0.204805993,-0.126754145,transfer,rh_G_and_S_occipital_inf
+rh_G&S_paracentral_thickness,Righthemi,0.226726738,-0.160831427,0.086339244,0.013902872,transfer,rh_G_and_S_paracentral
+rh_G&S_subcentral_thickness,Righthemi,0.252913763,-0.212829373,0.260974785,0.21653699,transfer,rh_G_and_S_subcentral
+rh_G&S_transv_frontopol_thickness,Righthemi,0.520821152,-0.5120019,0.478944102,3.20664416,transfer,rh_G_and_S_transv_frontopol
+rh_G&S_cingul-Ant_thickness,Righthemi,0.635653546,-1.19332226,0.132399557,0.474098013,transfer,rh_G_and_S_cingul-Ant
+rh_G&S_cingul-Mid-Ant_thickness,Righthemi,0.481721196,-0.555974099,0.038515742,0.997542634,transfer,rh_G_and_S_cingul-Mid-Ant
+rh_G&S_cingul-Mid-Post_thickness,Righthemi,0.46185488,-0.703417343,0.307055243,2.32896438,transfer,rh_G_and_S_cingul-Mid-Post
+rh_G_cingul-Post-dorsal_thickness,Righthemi,0.432732932,-0.68550216,-0.097631213,1.094802391,transfer,rh_G_cingul-Post-dorsal
+rh_G_cingul-Post-ventral_thickness,Righthemi,0.194572887,-0.090932485,-0.141655015,0.238678015,transfer,rh_G_cingul-Post-ventral
+rh_G_cuneus_thickness,Righthemi,0.505430109,-0.352184905,0.617235379,1.179815088,transfer,rh_G_cuneus
+rh_G_front_inf-Opercular_thickness,Righthemi,0.407062965,-0.245439123,0.478922618,1.7059633,transfer,rh_G_front_inf-Opercular
+rh_G_front_inf-Orbital_thickness,Righthemi,0.416785411,-0.24400581,0.630696693,1.35696036,transfer,rh_G_front_inf-Orbital
+rh_G_front_inf-Triangul_thickness,Righthemi,0.553431878,-0.446275441,0.176650722,0.245294761,transfer,rh_G_front_inf-Triangul
+rh_G_front_middle_thickness,Righthemi,0.451573115,-0.507072457,-0.007445781,2.844904636,transfer,rh_G_front_middle
+rh_G_front_sup_thickness,Righthemi,0.489054021,-0.632170392,-0.181753693,2.903405842,transfer,rh_G_front_sup
+rh_G_Ins_lg&S_cent_ins_thickness,Righthemi,0.0,-29.35426952,0.700800563,0.526766015,transfer,rh_G_Ins_lg&S_cent_ins
+rh_G_insular_short_thickness,Righthemi,0.265498414,-0.179795393,0.097857988,0.20080408,transfer,rh_G_insular_short
+rh_G_occipital_middle_thickness,Righthemi,0.252600895,-0.209793435,0.02337115,0.342069725,transfer,rh_G_occipital_middle
+rh_G_occipital_sup_thickness,Righthemi,0.279952396,-0.171465273,0.359254051,0.306289635,transfer,rh_G_occipital_sup
+rh_G_oc-temp_lat-fusifor_thickness,Righthemi,0.258089914,-0.195267321,-0.772873468,6.386487524,transfer,rh_G_oc-temp_lat-fusifor
+rh_G_oc-temp_med-Lingual_thickness,Righthemi,0.642854769,-0.511194465,0.382197108,0.261295595,transfer,rh_G_oc-temp_med-Lingual
+rh_G_oc-temp_med-Parahip_thickness,Righthemi,0.016339675,0.022667097,-0.293579486,0.681531736,transfer,rh_G_oc-temp_med-Parahip
+rh_G_orbital_thickness,Righthemi,0.49289706,-0.42524661,-0.150133781,0.703280415,transfer,rh_G_orbital
+rh_G_pariet_inf-Angular_thickness,Righthemi,0.335368691,-0.264608662,-0.505481256,1.660331321,transfer,rh_G_pariet_inf-Angular
+rh_G_pariet_inf-Supramar_thickness,Righthemi,0.338424686,-0.286186397,0.040185141,0.686133199,transfer,rh_G_pariet_inf-Supramar
+rh_G_parietal_sup_thickness,Righthemi,0.334948631,-0.316259661,0.171083297,0.36842269,transfer,rh_G_parietal_sup
+rh_G_postcentral_thickness,Righthemi,0.22971795,-0.153954466,0.467633703,0.724724526,transfer,rh_G_postcentral
+rh_G_precentral_thickness,Righthemi,0.078280254,-0.08273665,-1.047536871,2.510944635,transfer,rh_G_precentral
+rh_G_precuneus_thickness,Righthemi,0.461156143,-0.372711002,0.39937322,0.423037247,transfer,rh_G_precuneus
+rh_G_rectus_thickness,Righthemi,0.328312902,-0.474228434,0.375996244,0.806360743,transfer,rh_G_rectus
+rh_G_subcallosal_thickness,Righthemi,0.060466308,-0.339950691,0.004915813,0.98903919,transfer,rh_G_subcallosal
+rh_G_temp_sup-G_T_transv_thickness,Righthemi,0.428842024,-0.271223036,0.107831249,0.444894098,transfer,rh_G_temp_sup-G_T_transv
+rh_G_temp_sup-Lateral_thickness,Righthemi,0.151985092,-0.068577787,-0.288945611,1.11164665,transfer,rh_G_temp_sup-Lateral
+rh_G_temp_sup-Plan_polar_thickness,Righthemi,0.063445358,-0.059981767,-0.054447886,0.72002025,transfer,rh_G_temp_sup-Plan_polar
+rh_G_temp_sup-Plan_tempo_thickness,Righthemi,0.29288194,-0.239808581,0.081798967,0.385969127,transfer,rh_G_temp_sup-Plan_tempo
+rh_G_temporal_inf_thickness,Righthemi,0.083228294,-0.127890622,-0.346190535,1.366414872,transfer,rh_G_temporal_inf
+rh_G_temporal_middle_thickness,Righthemi,0.305958276,-0.22308655,-0.354520917,0.745316576,transfer,rh_G_temporal_middle
+rh_Lat_Fis-ant-Horizont_thickness,Righthemi,0.20577257,-0.362083284,0.770670332,2.106045042,transfer,rh_Lat_Fis-ant-Horizont
+rh_Lat_Fis-ant-Vertical_thickness,Righthemi,0.138600901,-0.162319667,0.850344909,3.48566143,transfer,rh_Lat_Fis-ant-Vertical
+rh_Lat_Fis-post_thickness,Righthemi,0.486732486,-0.422810459,-0.071107536,0.903346076,transfer,rh_Lat_Fis-post
+rh_Pole_occipital_thickness,Righthemi,0.160692865,-0.096728855,0.294781967,0.316590563,transfer,rh_Pole_occipital
+rh_Pole_temporal_thickness,Righthemi,0.101094651,-0.193423901,-0.62465799,1.343561782,transfer,rh_Pole_temporal
+rh_S_calcarine_thickness,Righthemi,0.626333493,-0.552313464,0.281210982,0.317202398,transfer,rh_S_calcarine
+rh_S_central_thickness,Righthemi,0.300893242,-0.470353252,0.215232918,0.235398806,transfer,rh_S_central
+rh_S_cingul-Marginalis_thickness,Righthemi,0.480564444,-0.759886941,0.175286625,2.138353421,transfer,rh_S_cingul-Marginalis
+rh_S_circular_insula_ant_thickness,Righthemi,0.24752429,-0.229494405,0.250998447,0.116050475,transfer,rh_S_circular_insula_ant
+rh_S_circular_insula_inf_thickness,Righthemi,0.369322432,-0.218941717,0.008472357,0.729137298,transfer,rh_S_circular_insula_inf
+rh_S_circular_insula_sup_thickness,Righthemi,0.416501982,-0.696714252,-0.56650861,2.129018176,transfer,rh_S_circular_insula_sup
+rh_S_collat_transv_ant_thickness,Righthemi,0.084009581,-0.094231776,0.378649836,2.440314992,transfer,rh_S_collat_transv_ant
+rh_S_collat_transv_post_thickness,Righthemi,0.338188777,-0.392382002,-0.176668307,3.756362457,transfer,rh_S_collat_transv_post
+rh_S_front_inf_thickness,Righthemi,0.509879914,-0.994970136,0.232224625,0.623429522,transfer,rh_S_front_inf
+rh_S_front_middle_thickness,Righthemi,0.526415934,-1.325459183,-0.179126494,0.321192055,transfer,rh_S_front_middle
+rh_S_front_sup_thickness,Righthemi,0.319674627,-1.164682419,-0.289986928,1.965130915,transfer,rh_S_front_sup
+rh_S_interm_prim-Jensen_thickness,Righthemi,0.064659431,-0.328621477,0.650686584,1.675360031,transfer,rh_S_interm_prim-Jensen
+rh_S_intrapariet&P_trans_thickness,Righthemi,0.0,-32.83244065,-0.164715484,-0.401830985,transfer,rh_S_intrapariet&P_trans
+rh_S_oc_middle&Lunatus_thickness,Righthemi,0.0,-27.9862132,0.023281477,-0.320198116,transfer,rh_S_oc_middle&Lunatus
+rh_S_oc_sup&transversal_thickness,Righthemi,0.0,-32.29244503,0.094359028,-0.297086304,transfer,rh_S_oc_sup&transversal
+rh_S_occipital_ant_thickness,Righthemi,0.26135667,-0.239777916,-0.005658739,1.061765705,transfer,rh_S_occipital_ant
+rh_S_oc-temp_lat_thickness,Righthemi,0.094652821,-0.233820102,-0.006112527,1.71873377,transfer,rh_S_oc-temp_lat
+rh_S_oc-temp_med&Lingual_thickness,Righthemi,0.0,-30.49597741,-0.074719523,-0.468881482,transfer,rh_S_oc-temp_med&Lingual
+rh_S_orbital_lateral_thickness,Righthemi,0.40228637,-0.845618974,0.434303167,0.897430068,transfer,rh_S_orbital_lateral
+rh_S_orbital_med-olfact_thickness,Righthemi,0.269302322,-0.375622981,0.842361762,2.164119446,transfer,rh_S_orbital_med-olfact
+rh_S_orbital-H_Shaped_thickness,Righthemi,0.538627795,-1.084919626,0.099928179,0.34751904,transfer,rh_S_orbital-H_Shaped
+rh_S_parieto_occipital_thickness,Righthemi,0.421864873,-0.483053892,-0.573478736,1.81105121,transfer,rh_S_parieto_occipital
+rh_S_pericallosal_thickness,Righthemi,0.145542348,-0.366477777,1.701132357,4.281706377,transfer,rh_S_pericallosal
+rh_S_postcentral_thickness,Righthemi,0.411699157,-0.61025635,-0.075606967,0.393897896,transfer,rh_S_postcentral
+rh_S_precentral-inf-part_thickness,Righthemi,0.271732113,-0.583441163,-0.31638647,2.896889524,transfer,rh_S_precentral-inf-part
+rh_S_precentral-sup-part_thickness,Righthemi,0.060599902,-0.450427575,-0.54283621,0.981442772,transfer,rh_S_precentral-sup-part
+rh_S_suborbital_thickness,Righthemi,0.326903382,-0.573455129,0.50564084,0.651726554,transfer,rh_S_suborbital
+rh_S_subparietal_thickness,Righthemi,0.417656228,-0.639843407,0.01808323,0.425956253,transfer,rh_S_subparietal
+rh_S_temporal_inf_thickness,Righthemi,0.171664991,-0.337124065,0.305760337,1.229855946,transfer,rh_S_temporal_inf
+rh_S_temporal_sup_thickness,Righthemi,0.429359995,-0.554100304,-0.418637121,1.152697364,transfer,rh_S_temporal_sup
+rh_S_temporal_transverse_thickness,Righthemi,0.266568864,-0.171823054,0.339547813,0.407416435,transfer,rh_S_temporal_transverse
+rh_MeanThickness_thickness,Righthemi,0.595838935,-0.730558272,-0.156102737,0.93908669,transfer,rh_MeanThickness
+Left-Lateral-Ventricle,Subcortical,0.197493058,-0.305760809,0.669467882,0.870678267,transfer,Left-Lateral-Ventricle
+Left-Inf-Lat-Vent,Subcortical,0.117842224,-0.09378567,0.668185486,2.618293837,transfer,Left-Inf-Lat-Vent
+Left-Cerebellum-White-Matter,Subcortical,0.231242114,-0.176611827,0.584477102,1.884570074,transfer,Left-Cerebellum-White-Matter
+Left-Cerebellum-Cortex,Subcortical,0.160047083,-0.128145805,-0.106490771,0.977304207,transfer,Left-Cerebellum-Cortex
+Left-Thalamus-Proper,Subcortical,0.0,-228.7429265,-0.578967185,-0.103629348,transfer,Left-Thalamus-Proper
+Left-Caudate,Subcortical,0.079491585,-0.091193443,-0.181200282,0.439845999,transfer,Left-Caudate
+Left-Putamen,Subcortical,0.255790212,-0.223931139,-0.364850861,0.562336529,transfer,Left-Putamen
+Left-Pallidum,Subcortical,0.273026762,-0.15404008,0.485403799,2.036148012,transfer,Left-Pallidum
+3rd-Ventricle,Subcortical,0.431819659,-0.383141542,1.478145659,7.415784853,transfer,3rd-Ventricle
+4th-Ventricle,Subcortical,-0.074822092,0.04212175,0.320711363,0.479792719,transfer,4th-Ventricle
+Brain-Stem,Subcortical,0.371823731,-0.216443798,0.281122165,0.808166247,transfer,Brain-Stem
+Left-Hippocampus,Subcortical,0.224832778,-0.118550749,-0.625149011,4.316043717,transfer,Left-Hippocampus
+Left-Amygdala,Subcortical,0.2195201,-0.160098191,-0.208061283,1.203387453,transfer,Left-Amygdala
+CSF,Subcortical,0.081933525,-0.094030329,0.562280368,2.202847376,transfer,CSF
+Left-Accumbens-area,Subcortical,0.471054938,-0.532697256,-0.116798697,0.100810494,transfer,Left-Accumbens-area
+Left-VentralDC,Subcortical,0.322194043,-0.204065227,0.21406494,1.353605096,transfer,Left-VentralDC
+Left-vessel,Subcortical,0.038334285,-0.000253299,-1.248388065,4.399600974,transfer,Left-vessel
+Left-choroid-plexus,Subcortical,0.178837455,-0.286956501,0.269995536,0.188912514,transfer,Left-choroid-plexus
+Right-Lateral-Ventricle,Subcortical,0.244660846,-0.25743708,1.128754681,3.673779101,transfer,Right-Lateral-Ventricle
+Right-Inf-Lat-Vent,Subcortical,0.132683254,-0.07561562,0.582063307,3.969698242,transfer,Right-Inf-Lat-Vent
+Right-Cerebellum-White-Matter,Subcortical,0.213907724,-0.226420772,0.097334264,1.13419125,transfer,Right-Cerebellum-White-Matter
+Right-Cerebellum-Cortex,Subcortical,0.176142057,-0.206020787,-0.16930022,1.912610905,transfer,Right-Cerebellum-Cortex
+Right-Thalamus-Proper,Subcortical,0.0,-244.5076716,-0.617662842,-0.083743728,transfer,Right-Thalamus-Proper
+Right-Caudate,Subcortical,0.175956205,-0.145368278,-0.162285515,-0.067171328,transfer,Right-Caudate
+Right-Putamen,Subcortical,0.276736863,-0.270068848,-0.46648018,1.095251835,transfer,Right-Putamen
+Right-Pallidum,Subcortical,0.267024385,-0.152925503,0.290379937,0.909187609,transfer,Right-Pallidum
+Right-Hippocampus,Subcortical,0.177938025,-0.12463481,-1.910717492,18.43058697,transfer,Right-Hippocampus
+Right-Amygdala,Subcortical,0.167793544,-0.083226951,-1.284890928,11.96407003,transfer,Right-Amygdala
+Right-Accumbens-area,Subcortical,0.265108703,-0.545609835,-0.255569306,0.354388143,transfer,Right-Accumbens-area
+Right-VentralDC,Subcortical,0.35244016,-0.25836619,-0.087728382,0.849737559,transfer,Right-VentralDC
+Right-vessel,Subcortical,0.035278123,-0.268996607,-0.960521295,2.493525735,transfer,Right-vessel
+Right-choroid-plexus,Subcortical,0.148749862,-0.263460554,0.443530981,0.629709037,transfer,Right-choroid-plexus
+SubCortGrayVol,Subcortical,0.284577271,-0.23764331,-0.170113734,0.833646269,transfer,SubCortGrayVol
+TotalGrayVol,Subcortical,0.481105857,-0.245199526,-0.849936931,3.571097315,transfer,TotalGrayVol
+SupraTentorialVol,Subcortical,0.270429554,-0.131061353,-0.6690785,2.307029963,transfer,SupraTentorialVol
+SupraTentorialVolNotVent,Subcortical,0.268424377,-0.124011997,-0.737268425,2.595217088,transfer,SupraTentorialVolNotVent
+EstimatedTotalIntraCranialVol,Subcortical,0.227319094,-0.435698688,-0.28601743,1.250471392,transfer,EstimatedTotalIntraCranialVol
+,Subcortical,,,,,transfer,
+lh_G&S_frontomargin_thickness,Lefthemi,0.429136749,-0.970207918,0.317670948,2.248375346,patients,lh_G_and_S_frontomargin
+lh_G&S_occipital_inf_thickness,Lefthemi,0.360337361,-0.747636272,0.271511194,1.153537032,patients,lh_G_and_S_occipital_inf
+lh_G&S_paracentral_thickness,Lefthemi,0.382138828,-0.369858599,0.035938224,0.253616467,patients,lh_G_and_S_paracentral
+lh_G&S_subcentral_thickness,Lefthemi,0.446478413,-0.946489029,-0.05686758,0.739493195,patients,lh_G_and_S_subcentral
+lh_G&S_transv_frontopol_thickness,Lefthemi,0.376903924,-0.506603547,0.849711153,2.938394943,patients,lh_G_and_S_transv_frontopol
+lh_G&S_cingul-Ant_thickness,Lefthemi,0.481457857,-1.031696532,0.27964697,1.198098791,patients,lh_G_and_S_cingul-Ant
+lh_G&S_cingul-Mid-Ant_thickness,Lefthemi,0.422317638,-0.342556228,0.017747721,1.098026486,patients,lh_G_and_S_cingul-Mid-Ant
+lh_G&S_cingul-Mid-Post_thickness,Lefthemi,0.563268472,-0.977051557,0.06734683,0.90795857,patients,lh_G_and_S_cingul-Mid-Post
+lh_G_cingul-Post-dorsal_thickness,Lefthemi,0.519684082,-0.909717377,-0.122792996,1.563636588,patients,lh_G_cingul-Post-dorsal
+lh_G_cingul-Post-ventral_thickness,Lefthemi,0.469768381,-0.330050406,0.043255612,1.09584604,patients,lh_G_cingul-Post-ventral
+lh_G_cuneus_thickness,Lefthemi,0.509267619,-0.395333932,1.066532392,4.452395659,patients,lh_G_cuneus
+lh_G_front_inf-Opercular_thickness,Lefthemi,0.512501588,-1.089843284,-0.20462398,0.984837258,patients,lh_G_front_inf-Opercular
+lh_G_front_inf-Orbital_thickness,Lefthemi,0.396310123,-0.541389444,-0.139967492,1.053328546,patients,lh_G_front_inf-Orbital
+lh_G_front_inf-Triangul_thickness,Lefthemi,0.554292842,-0.947880677,-0.016638613,0.915518407,patients,lh_G_front_inf-Triangul
+lh_G_front_middle_thickness,Lefthemi,0.503754474,-1.104282967,-0.060851657,1.108685319,patients,lh_G_front_middle
+lh_G_front_sup_thickness,Lefthemi,0.538914186,-0.982003774,-0.07920586,1.070800093,patients,lh_G_front_sup
+lh_G_Ins_lg&S_cent_ins_thickness,Lefthemi,0.240805812,-0.143285538,-0.137877265,0.645457789,patients,lh_G_Ins_lg&S_cent_ins
+lh_G_insular_short_thickness,Lefthemi,0.275302782,-0.184704348,-0.36826503,2.230235701,patients,lh_G_insular_short
+lh_G_occipital_middle_thickness,Lefthemi,0.456621079,-0.769052312,-0.289960877,1.453319339,patients,lh_G_occipital_middle
+lh_G_occipital_sup_thickness,Lefthemi,0.346952919,-0.401392813,0.423068627,1.665566587,patients,lh_G_occipital_sup
+lh_G_oc-temp_lat-fusifor_thickness,Lefthemi,0.383396457,-0.969857469,-0.291748093,1.599931668,patients,lh_G_oc-temp_lat-fusifor
+lh_G_oc-temp_med-Lingual_thickness,Lefthemi,0.543567401,-0.367820714,0.897287278,3.38361705,patients,lh_G_oc-temp_med-Lingual
+lh_G_oc-temp_med-Parahip_thickness,Lefthemi,0.22557841,-0.173083966,-0.434317243,0.833063194,patients,lh_G_oc-temp_med-Parahip
+lh_G_orbital_thickness,Lefthemi,0.561405422,-0.774597772,-0.102851191,1.101818905,patients,lh_G_orbital
+lh_G_pariet_inf-Angular_thickness,Lefthemi,0.552025462,-1.036175568,-0.375393933,2.043058172,patients,lh_G_pariet_inf-Angular
+lh_G_pariet_inf-Supramar_thickness,Lefthemi,0.538958368,-1.224684724,-0.269947109,1.152648563,patients,lh_G_pariet_inf-Supramar
+lh_G_parietal_sup_thickness,Lefthemi,0.469048488,-1.039208308,-0.019025734,1.25871092,patients,lh_G_parietal_sup
+lh_G_postcentral_thickness,Lefthemi,0.355444,-0.649838416,0.152860358,1.044123226,patients,lh_G_postcentral
+lh_G_precentral_thickness,Lefthemi,0.415970899,-0.630775334,-0.582153605,1.351758741,patients,lh_G_precentral
+lh_G_precuneus_thickness,Lefthemi,0.561166799,-1.011989542,-0.028209414,0.769876029,patients,lh_G_precuneus
+lh_G_rectus_thickness,Lefthemi,0.322818507,-0.621215798,1.229366199,8.188670296,patients,lh_G_rectus
+lh_G_subcallosal_thickness,Lefthemi,0.247655588,-0.138090082,0.077652741,0.787038695,patients,lh_G_subcallosal
+lh_G_temp_sup-G_T_transv_thickness,Lefthemi,0.383623792,-0.437862941,0.112050672,0.108720031,patients,lh_G_temp_sup-G_T_transv
+lh_G_temp_sup-Lateral_thickness,Lefthemi,0.388569341,-0.608041871,-0.295303291,1.015729399,patients,lh_G_temp_sup-Lateral
+lh_G_temp_sup-Plan_polar_thickness,Lefthemi,0.320360728,-0.223343458,-0.530576623,1.113505121,patients,lh_G_temp_sup-Plan_polar
+lh_G_temp_sup-Plan_tempo_thickness,Lefthemi,0.436003549,-0.857128699,-0.002282202,0.452075111,patients,lh_G_temp_sup-Plan_tempo
+lh_G_temporal_inf_thickness,Lefthemi,0.294736129,-0.984219868,-0.36699207,1.445125509,patients,lh_G_temporal_inf
+lh_G_temporal_middle_thickness,Lefthemi,0.427479638,-0.700512838,-0.444831725,1.442688165,patients,lh_G_temporal_middle
+lh_Lat_Fis-ant-Horizont_thickness,Lefthemi,0.374222338,-0.625683199,0.744943467,1.480243565,patients,lh_Lat_Fis-ant-Horizont
+lh_Lat_Fis-ant-Vertical_thickness,Lefthemi,0.37382862,-0.884925361,0.518256548,1.790138056,patients,lh_Lat_Fis-ant-Vertical
+lh_Lat_Fis-post_thickness,Lefthemi,0.59191108,-1.01782035,0.155023762,0.538063995,patients,lh_Lat_Fis-post
+lh_Pole_occipital_thickness,Lefthemi,0.330612881,-0.241170357,0.917513249,3.67585126,patients,lh_Pole_occipital
+lh_Pole_temporal_thickness,Lefthemi,0.215706257,-0.525439832,-0.771318465,1.94089925,patients,lh_Pole_temporal
+lh_S_calcarine_thickness,Lefthemi,0.634830496,-0.65655976,1.076018845,4.673104145,patients,lh_S_calcarine
+lh_S_central_thickness,Lefthemi,0.572088889,-0.929926801,0.405396465,2.379313949,patients,lh_S_central
+lh_S_cingul-Marginalis_thickness,Lefthemi,0.566827118,-1.183465386,0.189120131,0.934246478,patients,lh_S_cingul-Marginalis
+lh_S_circular_insula_ant_thickness,Lefthemi,0.489306723,-0.852962726,0.220264464,0.902009013,patients,lh_S_circular_insula_ant
+lh_S_circular_insula_inf_thickness,Lefthemi,0.520157681,-0.556820333,0.044931446,1.033033994,patients,lh_S_circular_insula_inf
+lh_S_circular_insula_sup_thickness,Lefthemi,0.634640284,-1.433620411,-0.062959747,0.655789721,patients,lh_S_circular_insula_sup
+lh_S_collat_transv_ant_thickness,Lefthemi,0.302649231,-0.485307643,0.406607843,1.443675837,patients,lh_S_collat_transv_ant
+lh_S_collat_transv_post_thickness,Lefthemi,0.366091672,-0.542767866,0.892274862,3.617965695,patients,lh_S_collat_transv_post
+lh_S_front_inf_thickness,Lefthemi,0.636841874,-1.646448977,0.159816915,0.967117636,patients,lh_S_front_inf
+lh_S_front_middle_thickness,Lefthemi,0.519278419,-1.308426198,0.662526664,2.914571338,patients,lh_S_front_middle
+lh_S_front_sup_thickness,Lefthemi,0.510704291,-1.528573883,0.025647419,1.256632292,patients,lh_S_front_sup
+lh_S_interm_prim-Jensen_thickness,Lefthemi,0.239039426,-0.517169967,1.136816625,2.669828364,patients,lh_S_interm_prim-Jensen
+lh_S_intrapariet&P_trans_thickness,Lefthemi,0.604497261,-1.612398011,0.270257222,2.17145216,patients,lh_S_intrapariet&P_trans
+lh_S_oc_middle&Lunatus_thickness,Lefthemi,0.392851305,-0.851221544,1.02407982,4.92176628,patients,lh_S_oc_middle&Lunatus
+lh_S_oc_sup&transversal_thickness,Lefthemi,0.486405309,-1.087547528,0.315835114,1.013313955,patients,lh_S_oc_sup&transversal
+lh_S_occipital_ant_thickness,Lefthemi,0.385844095,-0.733630312,0.721858574,4.612455893,patients,lh_S_occipital_ant
+lh_S_oc-temp_lat_thickness,Lefthemi,0.343875628,-0.787332453,0.530557982,3.00283767,patients,lh_S_oc-temp_lat
+lh_S_oc-temp_med&Lingual_thickness,Lefthemi,0.549669132,-0.743873729,0.011788719,0.887092958,patients,lh_S_oc-temp_med&Lingual
+lh_S_orbital_lateral_thickness,Lefthemi,0.371889735,-0.775745971,1.206788717,4.662782459,patients,lh_S_orbital_lateral
+lh_S_orbital_med-olfact_thickness,Lefthemi,0.364053715,-0.395355581,1.712398768,7.813800841,patients,lh_S_orbital_med-olfact
+lh_S_orbital-H_Shaped_thickness,Lefthemi,0.524112285,-1.123343817,0.1844713,1.083946543,patients,lh_S_orbital-H_Shaped
+lh_S_parieto_occipital_thickness,Lefthemi,0.634231652,-1.059887848,0.181489588,0.548030482,patients,lh_S_parieto_occipital
+lh_S_pericallosal_thickness,Lefthemi,0.230473827,-0.1315358,0.914229829,1.715853083,patients,lh_S_pericallosal
+lh_S_postcentral_thickness,Lefthemi,0.619011934,-1.503042048,0.102472746,0.509822825,patients,lh_S_postcentral
+lh_S_precentral-inf-part_thickness,Lefthemi,0.562811277,-1.563372606,-0.023875743,0.821269312,patients,lh_S_precentral-inf-part
+lh_S_precentral-sup-part_thickness,Lefthemi,0.469166718,-1.132303346,-0.126545643,1.213414642,patients,lh_S_precentral-sup-part
+lh_S_suborbital_thickness,Lefthemi,0.305747055,-0.366760927,1.389069584,5.961045901,patients,lh_S_suborbital
+lh_S_subparietal_thickness,Lefthemi,0.499943157,-1.091498292,0.527849199,2.614805508,patients,lh_S_subparietal
+lh_S_temporal_inf_thickness,Lefthemi,0.426757684,-0.638029637,0.533173579,5.92084263,patients,lh_S_temporal_inf
+lh_S_temporal_sup_thickness,Lefthemi,0.653843387,-1.421910166,-0.29870199,0.945602007,patients,lh_S_temporal_sup
+lh_S_temporal_transverse_thickness,Lefthemi,0.295511296,-0.315341916,0.315659552,0.613562815,patients,lh_S_temporal_transverse
+lh_MeanThickness_thickness,Lefthemi,0.701543911,-1.571907861,-0.265851412,0.992482378,patients,lh_MeanThickness
+rh_G&S_frontomargin_thickness,Righthemi,0.412903465,-0.771162366,1.26395881,5.392713893,patients,rh_G_and_S_frontomargin
+rh_G&S_occipital_inf_thickness,Righthemi,0.299192855,-0.521270434,0.235343233,0.46244673,patients,rh_G_and_S_occipital_inf
+rh_G&S_paracentral_thickness,Righthemi,0.368213521,-0.345509556,0.18884636,0.743354348,patients,rh_G_and_S_paracentral
+rh_G&S_subcentral_thickness,Righthemi,0.432955741,-0.840701564,0.08897126,0.326087331,patients,rh_G_and_S_subcentral
+rh_G&S_transv_frontopol_thickness,Righthemi,0.407855624,-0.601939331,0.6846859,2.189328398,patients,rh_G_and_S_transv_frontopol
+rh_G&S_cingul-Ant_thickness,Righthemi,0.607496531,-1.245602381,0.560463753,2.524510769,patients,rh_G_and_S_cingul-Ant
+rh_G&S_cingul-Mid-Ant_thickness,Righthemi,0.51125897,-0.689053385,0.023367362,2.477815617,patients,rh_G_and_S_cingul-Mid-Ant
+rh_G&S_cingul-Mid-Post_thickness,Righthemi,0.583145578,-1.061783543,0.197631182,1.089748362,patients,rh_G_and_S_cingul-Mid-Post
+rh_G_cingul-Post-dorsal_thickness,Righthemi,0.497945026,-0.986171963,-0.400762106,2.195592137,patients,rh_G_cingul-Post-dorsal
+rh_G_cingul-Post-ventral_thickness,Righthemi,0.262752212,-0.164824995,0.096937246,0.597589801,patients,rh_G_cingul-Post-ventral
+rh_G_cuneus_thickness,Righthemi,0.446601096,-0.289608245,1.481268404,7.879038842,patients,rh_G_cuneus
+rh_G_front_inf-Opercular_thickness,Righthemi,0.500386055,-1.004176904,0.033908198,0.528939941,patients,rh_G_front_inf-Opercular
+rh_G_front_inf-Orbital_thickness,Righthemi,0.379797111,-0.490950582,0.157639155,0.906729922,patients,rh_G_front_inf-Orbital
+rh_G_front_inf-Triangul_thickness,Righthemi,0.504333458,-0.806862719,0.161932471,1.456927311,patients,rh_G_front_inf-Triangul
+rh_G_front_middle_thickness,Righthemi,0.516168671,-0.983218624,-0.285037896,1.134620854,patients,rh_G_front_middle
+rh_G_front_sup_thickness,Righthemi,0.557207088,-0.994663513,-0.153034403,1.156507639,patients,rh_G_front_sup
+rh_G_Ins_lg&S_cent_ins_thickness,Righthemi,0.204144711,-0.106168677,-0.045368547,0.333593395,patients,rh_G_Ins_lg&S_cent_ins
+rh_G_insular_short_thickness,Righthemi,0.243557477,-0.133256758,-0.068575244,0.087974173,patients,rh_G_insular_short
+rh_G_occipital_middle_thickness,Righthemi,0.46846215,-0.893976913,-0.194395773,1.82842084,patients,rh_G_occipital_middle
+rh_G_occipital_sup_thickness,Righthemi,0.395307924,-0.443849804,0.13458288,1.594786187,patients,rh_G_occipital_sup
+rh_G_oc-temp_lat-fusifor_thickness,Righthemi,0.367506499,-0.707551585,-0.138031813,0.978370424,patients,rh_G_oc-temp_lat-fusifor
+rh_G_oc-temp_med-Lingual_thickness,Righthemi,0.494994016,-0.340091873,0.96385826,3.576604106,patients,rh_G_oc-temp_med-Lingual
+rh_G_oc-temp_med-Parahip_thickness,Righthemi,0.255051794,-0.201575899,-0.437637739,0.824982833,patients,rh_G_oc-temp_med-Parahip
+rh_G_orbital_thickness,Righthemi,0.52827707,-0.669623396,0.087090773,0.519032899,patients,rh_G_orbital
+rh_G_pariet_inf-Angular_thickness,Righthemi,0.508804345,-0.985964811,-0.366073495,1.746425369,patients,rh_G_pariet_inf-Angular
+rh_G_pariet_inf-Supramar_thickness,Righthemi,0.513417816,-1.168262536,-0.315657411,0.877233761,patients,rh_G_pariet_inf-Supramar
+rh_G_parietal_sup_thickness,Righthemi,0.415588494,-0.968080476,-0.062795126,0.908612309,patients,rh_G_parietal_sup
+rh_G_postcentral_thickness,Righthemi,0.355275636,-0.52555971,0.204107076,0.386378846,patients,rh_G_postcentral
+rh_G_precentral_thickness,Righthemi,0.415014037,-0.534790296,-0.635365944,1.318382776,patients,rh_G_precentral
+rh_G_precuneus_thickness,Righthemi,0.532174045,-0.962759447,-0.040687342,0.45859464,patients,rh_G_precuneus
+rh_G_rectus_thickness,Righthemi,0.343506026,-0.53971888,0.586620594,1.90006594,patients,rh_G_rectus
+rh_G_subcallosal_thickness,Righthemi,0.12121159,-0.060211288,0.024676793,0.432817921,patients,rh_G_subcallosal
+rh_G_temp_sup-G_T_transv_thickness,Righthemi,0.412553311,-0.476221945,0.162809001,0.158981521,patients,rh_G_temp_sup-G_T_transv
+rh_G_temp_sup-Lateral_thickness,Righthemi,0.413671958,-0.646402125,-0.244923216,1.050701534,patients,rh_G_temp_sup-Lateral
+rh_G_temp_sup-Plan_polar_thickness,Righthemi,0.361598994,-0.272432011,-0.171677792,0.73258769,patients,rh_G_temp_sup-Plan_polar
+rh_G_temp_sup-Plan_tempo_thickness,Righthemi,0.483344699,-0.991517491,0.063163103,0.372406788,patients,rh_G_temp_sup-Plan_tempo
+rh_G_temporal_inf_thickness,Righthemi,0.342456936,-0.948342983,-0.534129459,1.830138785,patients,rh_G_temporal_inf
+rh_G_temporal_middle_thickness,Righthemi,0.416200715,-0.828502573,-0.451154547,1.223276102,patients,rh_G_temporal_middle
+rh_Lat_Fis-ant-Horizont_thickness,Righthemi,0.413860711,-0.806219418,0.599153809,1.556556812,patients,rh_Lat_Fis-ant-Horizont
+rh_Lat_Fis-ant-Vertical_thickness,Righthemi,0.284718181,-0.623257641,0.906430636,3.475816392,patients,rh_Lat_Fis-ant-Vertical
+rh_Lat_Fis-post_thickness,Righthemi,0.604744916,-1.052702215,0.074566467,0.453442704,patients,rh_Lat_Fis-post
+rh_Pole_occipital_thickness,Righthemi,0.390155842,-0.252009784,0.925467426,4.156404938,patients,rh_Pole_occipital
+rh_Pole_temporal_thickness,Righthemi,0.22765249,-0.481296839,-0.783258858,1.878927994,patients,rh_Pole_temporal
+rh_S_calcarine_thickness,Righthemi,0.64367532,-0.698107313,0.777703039,2.459887599,patients,rh_S_calcarine
+rh_S_central_thickness,Righthemi,0.606728128,-0.891117606,0.431501945,1.928908105,patients,rh_S_central
+rh_S_cingul-Marginalis_thickness,Righthemi,0.598516394,-1.296603208,0.111782752,1.163149118,patients,rh_S_cingul-Marginalis
+rh_S_circular_insula_ant_thickness,Righthemi,0.410294896,-0.758968924,0.388069618,1.290819691,patients,rh_S_circular_insula_ant
+rh_S_circular_insula_inf_thickness,Righthemi,0.517136695,-0.571885417,0.330524449,0.804384075,patients,rh_S_circular_insula_inf
+rh_S_circular_insula_sup_thickness,Righthemi,0.606492333,-1.418304839,0.078862433,1.374959423,patients,rh_S_circular_insula_sup
+rh_S_collat_transv_ant_thickness,Righthemi,0.32278284,-0.561361645,0.647290947,1.526352865,patients,rh_S_collat_transv_ant
+rh_S_collat_transv_post_thickness,Righthemi,0.393382857,-0.571973487,0.626398211,2.09753609,patients,rh_S_collat_transv_post
+rh_S_front_inf_thickness,Righthemi,0.625734073,-1.562582287,0.412308636,2.030056254,patients,rh_S_front_inf
+rh_S_front_middle_thickness,Righthemi,0.566467607,-1.382604003,0.597726411,2.448442797,patients,rh_S_front_middle
+rh_S_front_sup_thickness,Righthemi,0.522098583,-1.46999639,-0.071291749,0.74956844,patients,rh_S_front_sup
+rh_S_interm_prim-Jensen_thickness,Righthemi,0.410574852,-0.973204172,0.430428285,1.432724966,patients,rh_S_interm_prim-Jensen
+rh_S_intrapariet&P_trans_thickness,Righthemi,0.58181648,-1.529297771,0.235390524,1.616255367,patients,rh_S_intrapariet&P_trans
+rh_S_oc_middle&Lunatus_thickness,Righthemi,0.343586716,-0.772467208,2.9959241,52.93560186,patients,rh_S_oc_middle&Lunatus
+rh_S_oc_sup&transversal_thickness,Righthemi,0.4733989,-1.000894108,0.198266741,1.368279724,patients,rh_S_oc_sup&transversal
+rh_S_occipital_ant_thickness,Righthemi,0.376598617,-0.702184874,0.362900642,2.182188813,patients,rh_S_occipital_ant
+rh_S_oc-temp_lat_thickness,Righthemi,0.347460843,-0.753454829,0.288606987,2.440570395,patients,rh_S_oc-temp_lat
+rh_S_oc-temp_med&Lingual_thickness,Righthemi,0.512736462,-0.568864192,0.039281727,0.727584809,patients,rh_S_oc-temp_med&Lingual
+rh_S_orbital_lateral_thickness,Righthemi,0.434617788,-0.946544319,1.605853887,9.545974132,patients,rh_S_orbital_lateral
+rh_S_orbital_med-olfact_thickness,Righthemi,0.471826847,-0.561612231,1.181515175,4.748271397,patients,rh_S_orbital_med-olfact
+rh_S_orbital-H_Shaped_thickness,Righthemi,0.527962866,-1.215133318,0.378897809,1.033235702,patients,rh_S_orbital-H_Shaped
+rh_S_parieto_occipital_thickness,Righthemi,0.608391787,-1.077446421,0.178472563,0.510499272,patients,rh_S_parieto_occipital
+rh_S_pericallosal_thickness,Righthemi,0.260307858,-0.155506493,0.81834903,1.33779457,patients,rh_S_pericallosal
+rh_S_postcentral_thickness,Righthemi,0.594097646,-1.34594059,0.213227,0.693586505,patients,rh_S_postcentral
+rh_S_precentral-inf-part_thickness,Righthemi,0.554811511,-1.449826136,-0.074760401,0.645502022,patients,rh_S_precentral-inf-part
+rh_S_precentral-sup-part_thickness,Righthemi,0.437326652,-0.946417953,-0.322475729,1.227759521,patients,rh_S_precentral-sup-part
+rh_S_suborbital_thickness,Righthemi,0.242995124,-0.246774536,0.540845221,0.57261235,patients,rh_S_suborbital
+rh_S_subparietal_thickness,Righthemi,0.496400113,-1.000779982,0.389135364,1.498118063,patients,rh_S_subparietal
+rh_S_temporal_inf_thickness,Righthemi,0.405704963,-0.705224336,0.291115863,1.777926627,patients,rh_S_temporal_inf
+rh_S_temporal_sup_thickness,Righthemi,0.620427259,-1.548365754,-0.230202409,0.925812047,patients,rh_S_temporal_sup
+rh_S_temporal_transverse_thickness,Righthemi,0.314933257,-0.347032266,0.388167009,1.216032286,patients,rh_S_temporal_transverse
+rh_MeanThickness_thickness,Righthemi,0.702321599,-1.516781842,-0.137292868,0.819131879,patients,rh_MeanThickness
+Left-Lateral-Ventricle,Subcortical,0.36234914,-0.25624437,0.596753044,0.673239092,patients,Left-Lateral-Ventricle
+Left-Inf-Lat-Vent,Subcortical,0.259693157,-0.321238846,0.846870542,2.272805132,patients,Left-Inf-Lat-Vent
+Left-Cerebellum-White-Matter,Subcortical,0.165927363,-0.224352831,-0.63500194,4.503406252,patients,Left-Cerebellum-White-Matter
+Left-Cerebellum-Cortex,Subcortical,0.261396711,-0.182636743,-1.673268662,12.68978533,patients,Left-Cerebellum-Cortex
+Left-Thalamus-Proper,Subcortical,0.411176523,-0.226749266,-0.530219381,7.640547312,patients,Left-Thalamus-Proper
+Left-Caudate,Subcortical,0.134169398,-0.069581232,-0.090799378,3.218000083,patients,Left-Caudate
+Left-Putamen,Subcortical,0.32395609,-0.179351868,-0.794824381,5.443678004,patients,Left-Putamen
+Left-Pallidum,Subcortical,0.466471464,-0.429804904,-0.497806716,4.425195629,patients,Left-Pallidum
+3rd-Ventricle,Subcortical,0.372336986,-0.211452524,0.82388152,1.467557355,patients,3rd-Ventricle
+4th-Ventricle,Subcortical,0.012808739,-0.006689531,0.307234812,1.348925444,patients,4th-Ventricle
+Brain-Stem,Subcortical,0.144067303,-0.076713633,-0.600809397,5.52213662,patients,Brain-Stem
+Left-Hippocampus,Subcortical,0.34756316,-0.318372351,-1.472041946,8.217054837,patients,Left-Hippocampus
+Left-Amygdala,Subcortical,0.347049506,-0.27971115,-1.173809058,6.060095718,patients,Left-Amygdala
+CSF,Subcortical,0.249142581,-0.151261951,0.693491114,3.736575521,patients,CSF
+Left-Accumbens-area,Subcortical,0.500878708,-0.528037829,-0.668526509,3.615070839,patients,Left-Accumbens-area
+Left-VentralDC,Subcortical,0.395605261,-0.311261827,-0.44143682,7.447113821,patients,Left-VentralDC
+Left-vessel,Subcortical,0.343321218,-0.284791136,-1.064380877,2.561998165,patients,Left-vessel
+Left-choroid-plexus,Subcortical,0.725975209,-0.53987781,0.212933123,1.056196425,patients,Left-choroid-plexus
+Right-Lateral-Ventricle,Subcortical,0.377256852,-0.254422338,0.564535555,0.951235204,patients,Right-Lateral-Ventricle
+Right-Inf-Lat-Vent,Subcortical,0.216007032,-0.274579893,1.012421986,2.748923615,patients,Right-Inf-Lat-Vent
+Right-Cerebellum-White-Matter,Subcortical,0.131125618,-0.167939414,-0.641393893,6.040485213,patients,Right-Cerebellum-White-Matter
+Right-Cerebellum-Cortex,Subcortical,0.248482672,-0.221265407,-1.74738039,15.00532301,patients,Right-Cerebellum-Cortex
+Right-Thalamus-Proper,Subcortical,0.493313387,-0.327640183,-0.307924452,3.773723717,patients,Right-Thalamus-Proper
+Right-Caudate,Subcortical,0.179869566,-0.100337777,0.112657598,1.99146069,patients,Right-Caudate
+Right-Putamen,Subcortical,0.348448324,-0.19822728,-0.878351494,4.575819648,patients,Right-Putamen
+Right-Pallidum,Subcortical,0.385234297,-0.37561487,-0.429111113,3.477927699,patients,Right-Pallidum
+Right-Hippocampus,Subcortical,0.361569365,-0.318310797,-1.07149423,3.943740397,patients,Right-Hippocampus
+Right-Amygdala,Subcortical,0.347227951,-0.368941217,-1.02107116,4.065707768,patients,Right-Amygdala
+Right-Accumbens-area,Subcortical,0.372453848,-0.232089973,-0.415127415,1.679675527,patients,Right-Accumbens-area
+Right-VentralDC,Subcortical,0.406046374,-0.325108781,-0.270247091,5.305006271,patients,Right-VentralDC
+Right-vessel,Subcortical,0.348054115,-0.191138691,-1.485364629,4.208673619,patients,Right-vessel
+Right-choroid-plexus,Subcortical,0.79675575,-0.835321185,0.196810222,0.796933983,patients,Right-choroid-plexus
+SubCortGrayVol,Subcortical,0.434302337,-0.235943222,-0.87850624,8.122920218,patients,SubCortGrayVol
+TotalGrayVol,Subcortical,0.532457324,-0.5565614,-0.360210089,2.511857918,patients,TotalGrayVol
+SupraTentorialVol,Subcortical,0.249859292,-0.212192514,0.012841622,1.416382557,patients,SupraTentorialVol
+SupraTentorialVolNotVent,Subcortical,0.330674781,-0.288455546,-0.087800963,1.492151685,patients,SupraTentorialVolNotVent
+EstimatedTotalIntraCranialVol,Subcortical,0.241984093,-0.153394675,0.515817664,3.640828304,patients,EstimatedTotalIntraCranialVol
+,Subcortical,,,,,patients,
+lh_G&S_frontomargin_thickness,Lefthemi,0.27,-0.16,0.07,0.92,full test,lh_G_and_S_frontomargin
+lh_G&S_occipital_inf_thickness,Lefthemi,0.21,-0.11,0.1,0.3,full test,lh_G_and_S_occipital_inf
+lh_G&S_paracentral_thickness,Lefthemi,0.21,-0.1,-0.05,0.25,full test,lh_G_and_S_paracentral
+lh_G&S_subcentral_thickness,Lefthemi,0.26,-0.13,0.02,0.35,full test,lh_G_and_S_subcentral
+lh_G&S_transv_frontopol_thickness,Lefthemi,0.25,-0.13,0.2,1.09,full test,lh_G_and_S_transv_frontopol
+lh_G&S_cingul-Ant_thickness,Lefthemi,0.28,-0.16,0.11,0.8,full test,lh_G_and_S_cingul-Ant
+lh_G&S_cingul-Mid-Ant_thickness,Lefthemi,0.23,-0.11,-0.44,0.9,full test,lh_G_and_S_cingul-Mid-Ant
+lh_G&S_cingul-Mid-Post_thickness,Lefthemi,0.33,-0.2,-0.13,0.64,full test,lh_G_and_S_cingul-Mid-Post
+lh_G_cingul-Post-dorsal_thickness,Lefthemi,0.3,-0.15,-0.1,0.65,full test,lh_G_cingul-Post-dorsal
+lh_G_cingul-Post-ventral_thickness,Lefthemi,0.35,-0.21,0.02,0.18,full test,lh_G_cingul-Post-ventral
+lh_G_cuneus_thickness,Lefthemi,0.39,-0.25,0.45,1.61,full test,lh_G_cuneus
+lh_G_front_inf-Opercular_thickness,Lefthemi,0.32,-0.17,-0.14,0.65,full test,lh_G_front_inf-Opercular
+lh_G_front_inf-Orbital_thickness,Lefthemi,0.27,-0.14,-0.08,0.82,full test,lh_G_front_inf-Orbital
+lh_G_front_inf-Triangul_thickness,Lefthemi,0.35,-0.2,-0.05,0.68,full test,lh_G_front_inf-Triangul
+lh_G_front_middle_thickness,Lefthemi,0.39,-0.25,-0.26,0.82,full test,lh_G_front_middle
+lh_G_front_sup_thickness,Lefthemi,0.39,-0.23,-0.18,0.62,full test,lh_G_front_sup
+lh_G_Ins_lg&S_cent_ins_thickness,Lefthemi,0.13,-0.07,0.05,0.15,full test,lh_G_Ins_lg&S_cent_ins
+lh_G_insular_short_thickness,Lefthemi,0.12,-0.06,-0.22,0.36,full test,lh_G_insular_short
+lh_G_occipital_middle_thickness,Lefthemi,0.23,-0.13,-0.24,0.98,full test,lh_G_occipital_middle
+lh_G_occipital_sup_thickness,Lefthemi,0.22,-0.12,0.17,0.41,full test,lh_G_occipital_sup
+lh_G_oc-temp_lat-fusifor_thickness,Lefthemi,0.26,-0.12,-0.22,0.66,full test,lh_G_oc-temp_lat-fusifor
+lh_G_oc-temp_med-Lingual_thickness,Lefthemi,0.49,-0.35,0.19,0.57,full test,lh_G_oc-temp_med-Lingual
+lh_G_oc-temp_med-Parahip_thickness,Lefthemi,0.14,-0.07,-0.21,0.24,full test,lh_G_oc-temp_med-Parahip
+lh_G_orbital_thickness,Lefthemi,0.32,-0.19,-0.09,0.7,full test,lh_G_orbital
+lh_G_pariet_inf-Angular_thickness,Lefthemi,0.37,-0.23,-0.32,1.15,full test,lh_G_pariet_inf-Angular
+lh_G_pariet_inf-Supramar_thickness,Lefthemi,0.34,-0.2,-0.21,0.65,full test,lh_G_pariet_inf-Supramar
+lh_G_parietal_sup_thickness,Lefthemi,0.35,-0.22,-0.14,0.55,full test,lh_G_parietal_sup
+lh_G_postcentral_thickness,Lefthemi,0.22,-0.12,0.11,0.38,full test,lh_G_postcentral
+lh_G_precentral_thickness,Lefthemi,0.23,-0.12,-0.5,1.04,full test,lh_G_precentral
+lh_G_precuneus_thickness,Lefthemi,0.34,-0.21,-0.09,0.43,full test,lh_G_precuneus
+lh_G_rectus_thickness,Lefthemi,0.24,-0.11,-0.11,0.99,full test,lh_G_rectus
+lh_G_subcallosal_thickness,Lefthemi,0.23,-0.13,0.06,0.41,full test,lh_G_subcallosal
+lh_G_temp_sup-G_T_transv_thickness,Lefthemi,0.24,-0.13,0.16,0.24,full test,lh_G_temp_sup-G_T_transv
+lh_G_temp_sup-Lateral_thickness,Lefthemi,0.23,-0.11,-0.08,0.36,full test,lh_G_temp_sup-Lateral
+lh_G_temp_sup-Plan_polar_thickness,Lefthemi,0.14,-0.08,-0.27,0.41,full test,lh_G_temp_sup-Plan_polar
+lh_G_temp_sup-Plan_tempo_thickness,Lefthemi,0.25,-0.12,-0.04,0.33,full test,lh_G_temp_sup-Plan_tempo
+lh_G_temporal_inf_thickness,Lefthemi,0.29,-0.14,-0.09,0.51,full test,lh_G_temporal_inf
+lh_G_temporal_middle_thickness,Lefthemi,0.29,-0.17,-0.24,0.78,full test,lh_G_temporal_middle
+lh_Lat_Fis-ant-Horizont_thickness,Lefthemi,0.16,-0.07,0.88,2.04,full test,lh_Lat_Fis-ant-Horizont
+lh_Lat_Fis-ant-Vertical_thickness,Lefthemi,0.21,-0.1,0.46,1.22,full test,lh_Lat_Fis-ant-Vertical
+lh_Lat_Fis-post_thickness,Lefthemi,0.3,-0.17,0.07,0.73,full test,lh_Lat_Fis-post
+lh_Pole_occipital_thickness,Lefthemi,0.15,-0.07,0.16,0.63,full test,lh_Pole_occipital
+lh_Pole_temporal_thickness,Lefthemi,0.18,-0.09,-0.31,0.77,full test,lh_Pole_temporal
+lh_S_calcarine_thickness,Lefthemi,0.51,-0.36,0.3,0.97,full test,lh_S_calcarine
+lh_S_central_thickness,Lefthemi,0.3,-0.16,-0.03,0.63,full test,lh_S_central
+lh_S_cingul-Marginalis_thickness,Lefthemi,0.36,-0.22,-0.1,0.66,full test,lh_S_cingul-Marginalis
+lh_S_circular_insula_ant_thickness,Lefthemi,0.23,-0.1,0.02,0.6,full test,lh_S_circular_insula_ant
+lh_S_circular_insula_inf_thickness,Lefthemi,0.28,-0.14,0.05,0.28,full test,lh_S_circular_insula_inf
+lh_S_circular_insula_sup_thickness,Lefthemi,0.39,-0.23,-0.22,0.97,full test,lh_S_circular_insula_sup
+lh_S_collat_transv_ant_thickness,Lefthemi,0.11,-0.04,0.27,1.02,full test,lh_S_collat_transv_ant
+lh_S_collat_transv_post_thickness,Lefthemi,0.19,-0.1,0.45,0.86,full test,lh_S_collat_transv_post
+lh_S_front_inf_thickness,Lefthemi,0.42,-0.25,-0.18,1.03,full test,lh_S_front_inf
+lh_S_front_middle_thickness,Lefthemi,0.39,-0.23,0.08,1.4,full test,lh_S_front_middle
+lh_S_front_sup_thickness,Lefthemi,0.43,-0.27,-0.29,1.11,full test,lh_S_front_sup
+lh_S_interm_prim-Jensen_thickness,Lefthemi,0.16,-0.08,1.08,2.1,full test,lh_S_interm_prim-Jensen
+lh_S_intrapariet&P_trans_thickness,Lefthemi,0.41,-0.25,-0.19,1.08,full test,lh_S_intrapariet&P_trans
+lh_S_oc_middle&Lunatus_thickness,Lefthemi,0.27,-0.15,0.23,1.56,full test,lh_S_oc_middle&Lunatus
+lh_S_oc_sup&transversal_thickness,Lefthemi,0.32,-0.18,-0.06,0.67,full test,lh_S_oc_sup&transversal
+lh_S_occipital_ant_thickness,Lefthemi,0.19,-0.1,0.17,0.55,full test,lh_S_occipital_ant
+lh_S_oc-temp_lat_thickness,Lefthemi,0.19,-0.1,0.22,0.77,full test,lh_S_oc-temp_lat
+lh_S_oc-temp_med&Lingual_thickness,Lefthemi,0.32,-0.19,0.05,0.31,full test,lh_S_oc-temp_med&Lingual
+lh_S_orbital_lateral_thickness,Lefthemi,0.24,-0.11,0.7,2.36,full test,lh_S_orbital_lateral
+lh_S_orbital_med-olfact_thickness,Lefthemi,0.2,-0.11,0.76,3.94,full test,lh_S_orbital_med-olfact
+lh_S_orbital-H_Shaped_thickness,Lefthemi,0.35,-0.19,0.11,0.75,full test,lh_S_orbital-H_Shaped
+lh_S_parieto_occipital_thickness,Lefthemi,0.38,-0.22,-0.03,0.52,full test,lh_S_parieto_occipital
+lh_S_pericallosal_thickness,Lefthemi,0.1,-0.05,0.67,0.88,full test,lh_S_pericallosal
+lh_S_postcentral_thickness,Lefthemi,0.41,-0.25,-0.1,0.68,full test,lh_S_postcentral
+lh_S_precentral-inf-part_thickness,Lefthemi,0.36,-0.21,-0.28,0.92,full test,lh_S_precentral-inf-part
+lh_S_precentral-sup-part_thickness,Lefthemi,0.29,-0.17,-0.29,0.85,full test,lh_S_precentral-sup-part
+lh_S_suborbital_thickness,Lefthemi,0.13,-0.06,0.64,1.53,full test,lh_S_suborbital
+lh_S_subparietal_thickness,Lefthemi,0.29,-0.16,0.11,0.97,full test,lh_S_subparietal
+lh_S_temporal_inf_thickness,Lefthemi,0.2,-0.11,0.14,0.79,full test,lh_S_temporal_inf
+lh_S_temporal_sup_thickness,Lefthemi,0.41,-0.25,-0.22,0.68,full test,lh_S_temporal_sup
+lh_S_temporal_transverse_thickness,Lefthemi,0.13,-0.07,0.49,0.2,full test,lh_S_temporal_transverse
+lh_MeanThickness_thickness,Lefthemi,0.46,-0.29,-0.3,0.62,full test,lh_MeanThickness
+rh_G&S_frontomargin_thickness,Righthemi,0.27,-0.13,0.36,1.6,full test,rh_G_and_S_frontomargin
+rh_G&S_occipital_inf_thickness,Righthemi,0.12,-0.04,0.12,0.23,full test,rh_G_and_S_occipital_inf
+rh_G&S_paracentral_thickness,Righthemi,0.21,-0.1,0.05,0.4,full test,rh_G_and_S_paracentral
+rh_G&S_subcentral_thickness,Righthemi,0.25,-0.12,0.05,0.27,full test,rh_G_and_S_subcentral
+rh_G&S_transv_frontopol_thickness,Righthemi,0.29,-0.15,0.25,1.11,full test,rh_G_and_S_transv_frontopol
+rh_G&S_cingul-Ant_thickness,Righthemi,0.36,-0.21,0.06,1.17,full test,rh_G_and_S_cingul-Ant
+rh_G&S_cingul-Mid-Ant_thickness,Righthemi,0.25,-0.13,-0.36,0.92,full test,rh_G_and_S_cingul-Mid-Ant
+rh_G&S_cingul-Mid-Post_thickness,Righthemi,0.31,-0.18,-0.16,0.63,full test,rh_G_and_S_cingul-Mid-Post
+rh_G_cingul-Post-dorsal_thickness,Righthemi,0.3,-0.17,-0.39,1.59,full test,rh_G_cingul-Post-dorsal
+rh_G_cingul-Post-ventral_thickness,Righthemi,0.25,-0.14,0.0,0.31,full test,rh_G_cingul-Post-ventral
+rh_G_cuneus_thickness,Righthemi,0.5,-0.36,0.52,2.0,full test,rh_G_cuneus
+rh_G_front_inf-Opercular_thickness,Righthemi,0.33,-0.18,-0.14,0.55,full test,rh_G_front_inf-Opercular
+rh_G_front_inf-Orbital_thickness,Righthemi,0.25,-0.13,0.0,0.66,full test,rh_G_front_inf-Orbital
+rh_G_front_inf-Triangul_thickness,Righthemi,0.35,-0.19,-0.06,0.65,full test,rh_G_front_inf-Triangul
+rh_G_front_middle_thickness,Righthemi,0.39,-0.25,-0.24,0.96,full test,rh_G_front_middle
+rh_G_front_sup_thickness,Righthemi,0.38,-0.24,-0.23,0.69,full test,rh_G_front_sup
+rh_G_Ins_lg&S_cent_ins_thickness,Righthemi,0.09,-0.04,0.02,0.02,full test,rh_G_Ins_lg&S_cent_ins
+rh_G_insular_short_thickness,Righthemi,0.13,-0.07,-0.01,0.11,full test,rh_G_insular_short
+rh_G_occipital_middle_thickness,Righthemi,0.25,-0.14,-0.21,1.03,full test,rh_G_occipital_middle
+rh_G_occipital_sup_thickness,Righthemi,0.26,-0.15,0.08,0.47,full test,rh_G_occipital_sup
+rh_G_oc-temp_lat-fusifor_thickness,Righthemi,0.2,-0.08,-0.11,0.47,full test,rh_G_oc-temp_lat-fusifor
+rh_G_oc-temp_med-Lingual_thickness,Righthemi,0.54,-0.41,0.2,0.59,full test,rh_G_oc-temp_med-Lingual
+rh_G_oc-temp_med-Parahip_thickness,Righthemi,0.15,-0.07,-0.2,0.29,full test,rh_G_oc-temp_med-Parahip
+rh_G_orbital_thickness,Righthemi,0.29,-0.15,-0.04,0.47,full test,rh_G_orbital
+rh_G_pariet_inf-Angular_thickness,Righthemi,0.33,-0.2,-0.3,0.91,full test,rh_G_pariet_inf-Angular
+rh_G_pariet_inf-Supramar_thickness,Righthemi,0.32,-0.19,-0.28,0.71,full test,rh_G_pariet_inf-Supramar
+rh_G_parietal_sup_thickness,Righthemi,0.34,-0.2,-0.08,0.46,full test,rh_G_parietal_sup
+rh_G_postcentral_thickness,Righthemi,0.2,-0.11,0.09,0.49,full test,rh_G_postcentral
+rh_G_precentral_thickness,Righthemi,0.21,-0.1,-0.58,1.14,full test,rh_G_precentral
+rh_G_precuneus_thickness,Righthemi,0.33,-0.2,0.0,0.42,full test,rh_G_precuneus
+rh_G_rectus_thickness,Righthemi,0.21,-0.09,0.07,1.04,full test,rh_G_rectus
+rh_G_subcallosal_thickness,Righthemi,0.11,-0.05,0.39,0.48,full test,rh_G_subcallosal
+rh_G_temp_sup-G_T_transv_thickness,Righthemi,0.21,-0.11,0.1,0.38,full test,rh_G_temp_sup-G_T_transv
+rh_G_temp_sup-Lateral_thickness,Righthemi,0.25,-0.12,-0.13,0.58,full test,rh_G_temp_sup-Lateral
+rh_G_temp_sup-Plan_polar_thickness,Righthemi,0.15,-0.07,-0.13,0.19,full test,rh_G_temp_sup-Plan_polar
+rh_G_temp_sup-Plan_tempo_thickness,Righthemi,0.27,-0.13,-0.02,0.4,full test,rh_G_temp_sup-Plan_tempo
+rh_G_temporal_inf_thickness,Righthemi,0.25,-0.14,-0.17,0.5,full test,rh_G_temporal_inf
+rh_G_temporal_middle_thickness,Righthemi,0.31,-0.17,-0.26,0.95,full test,rh_G_temporal_middle
+rh_Lat_Fis-ant-Horizont_thickness,Righthemi,0.22,-0.1,0.46,1.08,full test,rh_Lat_Fis-ant-Horizont
+rh_Lat_Fis-ant-Vertical_thickness,Righthemi,0.17,-0.08,0.68,1.71,full test,rh_Lat_Fis-ant-Vertical
+rh_Lat_Fis-post_thickness,Righthemi,0.33,-0.19,0.04,1.1,full test,rh_Lat_Fis-post
+rh_Pole_occipital_thickness,Righthemi,0.19,-0.1,0.2,0.4,full test,rh_Pole_occipital
+rh_Pole_temporal_thickness,Righthemi,0.17,-0.08,-0.31,0.86,full test,rh_Pole_temporal
+rh_S_calcarine_thickness,Righthemi,0.51,-0.36,0.32,1.14,full test,rh_S_calcarine
+rh_S_central_thickness,Righthemi,0.29,-0.16,0.04,0.7,full test,rh_S_central
+rh_S_cingul-Marginalis_thickness,Righthemi,0.36,-0.21,-0.13,0.75,full test,rh_S_cingul-Marginalis
+rh_S_circular_insula_ant_thickness,Righthemi,0.21,-0.09,0.12,0.42,full test,rh_S_circular_insula_ant
+rh_S_circular_insula_inf_thickness,Righthemi,0.26,-0.13,0.15,0.41,full test,rh_S_circular_insula_inf
+rh_S_circular_insula_sup_thickness,Righthemi,0.38,-0.23,-0.19,0.91,full test,rh_S_circular_insula_sup
+rh_S_collat_transv_ant_thickness,Righthemi,0.14,-0.05,0.57,1.52,full test,rh_S_collat_transv_ant
+rh_S_collat_transv_post_thickness,Righthemi,0.2,-0.1,0.28,0.73,full test,rh_S_collat_transv_post
+rh_S_front_inf_thickness,Righthemi,0.41,-0.25,-0.26,1.47,full test,rh_S_front_inf
+rh_S_front_middle_thickness,Righthemi,0.43,-0.26,-0.13,1.32,full test,rh_S_front_middle
+rh_S_front_sup_thickness,Righthemi,0.42,-0.25,-0.28,1.26,full test,rh_S_front_sup
+rh_S_interm_prim-Jensen_thickness,Righthemi,0.25,-0.12,0.47,1.29,full test,rh_S_interm_prim-Jensen
+rh_S_intrapariet&P_trans_thickness,Righthemi,0.41,-0.25,-0.14,0.85,full test,rh_S_intrapariet&P_trans
+rh_S_oc_middle&Lunatus_thickness,Righthemi,0.23,-0.12,0.32,1.2,full test,rh_S_oc_middle&Lunatus
+rh_S_oc_sup&transversal_thickness,Righthemi,0.31,-0.17,0.05,0.98,full test,rh_S_oc_sup&transversal
+rh_S_occipital_ant_thickness,Righthemi,0.17,-0.09,0.24,0.39,full test,rh_S_occipital_ant
+rh_S_oc-temp_lat_thickness,Righthemi,0.17,-0.08,0.41,1.05,full test,rh_S_oc-temp_lat
+rh_S_oc-temp_med&Lingual_thickness,Righthemi,0.33,-0.2,0.08,0.59,full test,rh_S_oc-temp_med&Lingual
+rh_S_orbital_lateral_thickness,Righthemi,0.29,-0.16,0.48,2.19,full test,rh_S_orbital_lateral
+rh_S_orbital_med-olfact_thickness,Righthemi,0.24,-0.13,0.49,2.5,full test,rh_S_orbital_med-olfact
+rh_S_orbital-H_Shaped_thickness,Righthemi,0.39,-0.21,0.09,0.91,full test,rh_S_orbital-H_Shaped
+rh_S_parieto_occipital_thickness,Righthemi,0.34,-0.2,-0.05,0.53,full test,rh_S_parieto_occipital
+rh_S_pericallosal_thickness,Righthemi,0.1,-0.05,0.82,1.07,full test,rh_S_pericallosal
+rh_S_postcentral_thickness,Righthemi,0.39,-0.23,-0.08,0.5,full test,rh_S_postcentral
+rh_S_precentral-inf-part_thickness,Righthemi,0.33,-0.19,-0.37,1.19,full test,rh_S_precentral-inf-part
+rh_S_precentral-sup-part_thickness,Righthemi,0.26,-0.15,-0.55,1.79,full test,rh_S_precentral-sup-part
+rh_S_suborbital_thickness,Righthemi,0.11,-0.06,0.31,0.21,full test,rh_S_suborbital
+rh_S_subparietal_thickness,Righthemi,0.27,-0.15,0.18,0.76,full test,rh_S_subparietal
+rh_S_temporal_inf_thickness,Righthemi,0.18,-0.1,0.2,1.13,full test,rh_S_temporal_inf
+rh_S_temporal_sup_thickness,Righthemi,0.41,-0.25,-0.18,0.7,full test,rh_S_temporal_sup
+rh_S_temporal_transverse_thickness,Righthemi,0.14,-0.07,0.25,0.18,full test,rh_S_temporal_transverse
+rh_MeanThickness_thickness,Righthemi,0.45,-0.29,-0.24,0.59,full test,rh_MeanThickness
+Left-Lateral-Ventricle,Subcortical,0.4,-0.34,0.47,0.54,full test,Left-Lateral-Ventricle
+Left-Inf-Lat-Vent,Subcortical,0.3,-0.19,0.26,0.79,full test,Left-Inf-Lat-Vent
+Left-Cerebellum-White-Matter,Subcortical,0.31,-0.2,0.32,2.15,full test,Left-Cerebellum-White-Matter
+Left-Cerebellum-Cortex,Subcortical,0.34,-0.2,-0.33,2.69,full test,Left-Cerebellum-Cortex
+Left-Thalamus-Proper,Subcortical,0.58,-0.43,0.13,1.57,full test,Left-Thalamus-Proper
+Left-Caudate,Subcortical,0.32,-0.19,0.06,1.24,full test,Left-Caudate
+Left-Putamen,Subcortical,0.46,-0.3,-0.22,2.02,full test,Left-Putamen
+Left-Pallidum,Subcortical,0.42,-0.29,-0.08,1.15,full test,Left-Pallidum
+3rd-Ventricle,Subcortical,0.47,-0.37,0.68,1.15,full test,3rd-Ventricle
+4th-Ventricle,Subcortical,0.09,-0.05,0.35,0.48,full test,4th-Ventricle
+Brain-Stem,Subcortical,0.37,-0.24,0.03,1.04,full test,Brain-Stem
+Left-Hippocampus,Subcortical,0.26,-0.15,-0.18,1.48,full test,Left-Hippocampus
+Left-Amygdala,Subcortical,0.28,-0.16,-0.16,1.4,full test,Left-Amygdala
+CSF,Subcortical,0.28,-0.18,0.57,1.36,full test,CSF
+Left-Accumbens-area,Subcortical,0.6,-0.43,-0.2,1.23,full test,Left-Accumbens-area
+Left-VentralDC,Subcortical,0.32,-0.19,0.1,0.55,full test,Left-VentralDC
+Left-vessel,Subcortical,0.17,-0.09,0.12,0.72,full test,Left-vessel
+Left-choroid-plexus,Subcortical,0.6,-0.42,-0.1,0.21,full test,Left-choroid-plexus
+Right-Lateral-Ventricle,Subcortical,0.41,-0.35,0.46,0.56,full test,Right-Lateral-Ventricle
+Right-Inf-Lat-Vent,Subcortical,0.25,-0.14,0.14,0.71,full test,Right-Inf-Lat-Vent
+Right-Cerebellum-White-Matter,Subcortical,0.29,-0.19,0.57,2.83,full test,Right-Cerebellum-White-Matter
+Right-Cerebellum-Cortex,Subcortical,0.32,-0.2,-0.31,2.77,full test,Right-Cerebellum-Cortex
+Right-Thalamus-Proper,Subcortical,0.58,-0.42,0.08,0.94,full test,Right-Thalamus-Proper
+Right-Caudate,Subcortical,0.33,-0.19,0.08,1.09,full test,Right-Caudate
+Right-Putamen,Subcortical,0.43,-0.28,-0.16,2.11,full test,Right-Putamen
+Right-Pallidum,Subcortical,0.35,-0.22,-0.03,0.8,full test,Right-Pallidum
+Right-Hippocampus,Subcortical,0.25,-0.15,-0.14,1.02,full test,Right-Hippocampus
+Right-Amygdala,Subcortical,0.29,-0.17,-0.1,1.12,full test,Right-Amygdala
+Right-Accumbens-area,Subcortical,0.42,-0.27,-0.04,1.02,full test,Right-Accumbens-area
+Right-VentralDC,Subcortical,0.33,-0.19,0.12,0.64,full test,Right-VentralDC
+Right-vessel,Subcortical,0.24,-0.11,0.08,1.4,full test,Right-vessel
+Right-choroid-plexus,Subcortical,0.68,-0.45,-0.04,0.25,full test,Right-choroid-plexus
+SubCortGrayVol,Subcortical,0.61,-0.42,-0.07,0.97,full test,SubCortGrayVol
+TotalGrayVol,Subcortical,0.6,-0.45,-0.16,1.4,full test,TotalGrayVol
+SupraTentorialVol,Subcortical,0.35,-0.21,-0.03,0.52,full test,SupraTentorialVol
+SupraTentorialVolNotVent,Subcortical,0.37,-0.23,-0.05,0.54,full test,SupraTentorialVolNotVent
+avg_thickness,Subcortical,0.48,-0.31,-0.27,0.71,full test,avg
+EstimatedTotalIntraCranialVol,Subcortical,0.33,-0.2,-0.38,2.41,full test,EstimatedTotalIntraCranialVol
+lh_G&S_frontomargin_thickness,Lefthemi,0.26,-0.15,0.24,1.18,mQC,lh_G_and_S_frontomargin
+lh_G&S_occipital_inf_thickness,Lefthemi,0.19,-0.11,0.06,0.41,mQC,lh_G_and_S_occipital_inf
+lh_G&S_paracentral_thickness,Lefthemi,0.29,-0.16,-0.02,0.48,mQC,lh_G_and_S_paracentral
+lh_G&S_subcentral_thickness,Lefthemi,0.27,-0.15,-0.01,0.48,mQC,lh_G_and_S_subcentral
+lh_G&S_transv_frontopol_thickness,Lefthemi,0.31,-0.16,0.27,1.43,mQC,lh_G_and_S_transv_frontopol
+lh_G&S_cingul-Ant_thickness,Lefthemi,0.27,-0.15,0.09,0.8,mQC,lh_G_and_S_cingul-Ant
+lh_G&S_cingul-Mid-Ant_thickness,Lefthemi,0.29,-0.17,-0.35,1.26,mQC,lh_G_and_S_cingul-Mid-Ant
+lh_G&S_cingul-Mid-Post_thickness,Lefthemi,0.37,-0.23,-0.08,0.67,mQC,lh_G_and_S_cingul-Mid-Post
+lh_G_cingul-Post-dorsal_thickness,Lefthemi,0.33,-0.18,-0.04,0.5,mQC,lh_G_cingul-Post-dorsal
+lh_G_cingul-Post-ventral_thickness,Lefthemi,0.37,-0.23,0.0,0.27,mQC,lh_G_cingul-Post-ventral
+lh_G_cuneus_thickness,Lefthemi,0.41,-0.26,0.24,0.58,mQC,lh_G_cuneus
+lh_G_front_inf-Opercular_thickness,Lefthemi,0.38,-0.24,-0.12,0.66,mQC,lh_G_front_inf-Opercular
+lh_G_front_inf-Orbital_thickness,Lefthemi,0.34,-0.19,-0.06,0.9,mQC,lh_G_front_inf-Orbital
+lh_G_front_inf-Triangul_thickness,Lefthemi,0.42,-0.26,-0.01,0.57,mQC,lh_G_front_inf-Triangul
+lh_G_front_middle_thickness,Lefthemi,0.47,-0.32,-0.17,0.7,mQC,lh_G_front_middle
+lh_G_front_sup_thickness,Lefthemi,0.45,-0.3,-0.12,0.49,mQC,lh_G_front_sup
+lh_G_Ins_lg&S_cent_ins_thickness,Lefthemi,0.13,-0.07,0.04,0.15,mQC,lh_G_Ins_lg&S_cent_ins
+lh_G_insular_short_thickness,Lefthemi,0.15,-0.08,-0.24,0.33,mQC,lh_G_insular_short
+lh_G_occipital_middle_thickness,Lefthemi,0.27,-0.16,-0.32,1.45,mQC,lh_G_occipital_middle
+lh_G_occipital_sup_thickness,Lefthemi,0.27,-0.16,0.15,0.46,mQC,lh_G_occipital_sup
+lh_G_oc-temp_lat-fusifor_thickness,Lefthemi,0.26,-0.17,-0.15,0.62,mQC,lh_G_oc-temp_lat-fusifor
+lh_G_oc-temp_med-Lingual_thickness,Lefthemi,0.5,-0.37,0.1,0.43,mQC,lh_G_oc-temp_med-Lingual
+lh_G_oc-temp_med-Parahip_thickness,Lefthemi,0.14,-0.08,-0.12,0.26,mQC,lh_G_oc-temp_med-Parahip
+lh_G_orbital_thickness,Lefthemi,0.36,-0.23,-0.01,0.49,mQC,lh_G_orbital
+lh_G_pariet_inf-Angular_thickness,Lefthemi,0.44,-0.3,-0.36,1.37,mQC,lh_G_pariet_inf-Angular
+lh_G_pariet_inf-Supramar_thickness,Lefthemi,0.38,-0.24,-0.21,0.77,mQC,lh_G_pariet_inf-Supramar
+lh_G_parietal_sup_thickness,Lefthemi,0.45,-0.3,-0.14,0.63,mQC,lh_G_parietal_sup
+lh_G_postcentral_thickness,Lefthemi,0.28,-0.16,0.15,0.64,mQC,lh_G_postcentral
+lh_G_precentral_thickness,Lefthemi,0.26,-0.14,-0.49,1.38,mQC,lh_G_precentral
+lh_G_precuneus_thickness,Lefthemi,0.41,-0.26,-0.06,0.52,mQC,lh_G_precuneus
+lh_G_rectus_thickness,Lefthemi,0.24,-0.13,-0.18,0.86,mQC,lh_G_rectus
+lh_G_subcallosal_thickness,Lefthemi,0.24,-0.15,0.03,0.43,mQC,lh_G_subcallosal
+lh_G_temp_sup-G_T_transv_thickness,Lefthemi,0.3,-0.17,0.05,0.21,mQC,lh_G_temp_sup-G_T_transv
+lh_G_temp_sup-Lateral_thickness,Lefthemi,0.25,-0.12,-0.05,0.28,mQC,lh_G_temp_sup-Lateral
+lh_G_temp_sup-Plan_polar_thickness,Lefthemi,0.18,-0.12,-0.19,0.55,mQC,lh_G_temp_sup-Plan_polar
+lh_G_temp_sup-Plan_tempo_thickness,Lefthemi,0.27,-0.15,-0.04,0.4,mQC,lh_G_temp_sup-Plan_tempo
+lh_G_temporal_inf_thickness,Lefthemi,0.25,-0.12,-0.14,0.53,mQC,lh_G_temporal_inf
+lh_G_temporal_middle_thickness,Lefthemi,0.34,-0.21,-0.2,0.94,mQC,lh_G_temporal_middle
+lh_Lat_Fis-ant-Horizont_thickness,Lefthemi,0.18,-0.08,0.73,1.73,mQC,lh_Lat_Fis-ant-Horizont
+lh_Lat_Fis-ant-Vertical_thickness,Lefthemi,0.2,-0.1,0.45,1.21,mQC,lh_Lat_Fis-ant-Vertical
+lh_Lat_Fis-post_thickness,Lefthemi,0.31,-0.18,0.01,0.65,mQC,lh_Lat_Fis-post
+lh_Pole_occipital_thickness,Lefthemi,0.19,-0.1,0.1,0.77,mQC,lh_Pole_occipital
+lh_Pole_temporal_thickness,Lefthemi,0.13,-0.06,-0.21,0.63,mQC,lh_Pole_temporal
+lh_S_calcarine_thickness,Lefthemi,0.53,-0.39,0.19,0.35,mQC,lh_S_calcarine
+lh_S_central_thickness,Lefthemi,0.31,-0.18,-0.07,0.76,mQC,lh_S_central
+lh_S_cingul-Marginalis_thickness,Lefthemi,0.42,-0.27,-0.15,0.77,mQC,lh_S_cingul-Marginalis
+lh_S_circular_insula_ant_thickness,Lefthemi,0.22,-0.12,-0.14,0.73,mQC,lh_S_circular_insula_ant
+lh_S_circular_insula_inf_thickness,Lefthemi,0.3,-0.17,0.09,0.41,mQC,lh_S_circular_insula_inf
+lh_S_circular_insula_sup_thickness,Lefthemi,0.37,-0.23,-0.29,0.98,mQC,lh_S_circular_insula_sup
+lh_S_collat_transv_ant_thickness,Lefthemi,0.1,-0.05,0.46,1.59,mQC,lh_S_collat_transv_ant
+lh_S_collat_transv_post_thickness,Lefthemi,0.2,-0.11,0.4,1.2,mQC,lh_S_collat_transv_post
+lh_S_front_inf_thickness,Lefthemi,0.4,-0.25,-0.35,1.29,mQC,lh_S_front_inf
+lh_S_front_middle_thickness,Lefthemi,0.36,-0.22,-0.04,1.11,mQC,lh_S_front_middle
+lh_S_front_sup_thickness,Lefthemi,0.4,-0.26,-0.36,1.4,mQC,lh_S_front_sup
+lh_S_interm_prim-Jensen_thickness,Lefthemi,0.13,-0.06,1.19,2.64,mQC,lh_S_interm_prim-Jensen
+lh_S_intrapariet&P_trans_thickness,Lefthemi,0.43,-0.27,-0.33,1.2,mQC,lh_S_intrapariet&P_trans
+lh_S_oc_middle&Lunatus_thickness,Lefthemi,0.24,-0.14,0.05,1.21,mQC,lh_S_oc_middle&Lunatus
+lh_S_oc_sup&transversal_thickness,Lefthemi,0.32,-0.19,-0.17,0.71,mQC,lh_S_oc_sup&transversal
+lh_S_occipital_ant_thickness,Lefthemi,0.18,-0.1,0.15,0.52,mQC,lh_S_occipital_ant
+lh_S_oc-temp_lat_thickness,Lefthemi,0.16,-0.08,0.3,0.91,mQC,lh_S_oc-temp_lat
+lh_S_oc-temp_med&Lingual_thickness,Lefthemi,0.33,-0.2,0.11,0.47,mQC,lh_S_oc-temp_med&Lingual
+lh_S_orbital_lateral_thickness,Lefthemi,0.21,-0.11,0.59,1.87,mQC,lh_S_orbital_lateral
+lh_S_orbital_med-olfact_thickness,Lefthemi,0.21,-0.08,0.97,5.28,mQC,lh_S_orbital_med-olfact
+lh_S_orbital-H_Shaped_thickness,Lefthemi,0.32,-0.23,0.14,0.62,mQC,lh_S_orbital-H_Shaped
+lh_S_parieto_occipital_thickness,Lefthemi,0.4,-0.25,-0.07,0.7,mQC,lh_S_parieto_occipital
+lh_S_pericallosal_thickness,Lefthemi,0.11,-0.08,0.7,1.01,mQC,lh_S_pericallosal
+lh_S_postcentral_thickness,Lefthemi,0.44,-0.28,-0.18,0.88,mQC,lh_S_postcentral
+lh_S_precentral-inf-part_thickness,Lefthemi,0.34,-0.21,-0.27,1.15,mQC,lh_S_precentral-inf-part
+lh_S_precentral-sup-part_thickness,Lefthemi,0.28,-0.17,-0.29,1.16,mQC,lh_S_precentral-sup-part
+lh_S_suborbital_thickness,Lefthemi,0.13,-0.05,0.57,1.45,mQC,lh_S_suborbital
+lh_S_subparietal_thickness,Lefthemi,0.3,-0.18,0.03,0.85,mQC,lh_S_subparietal
+lh_S_temporal_inf_thickness,Lefthemi,0.2,-0.11,0.32,1.32,mQC,lh_S_temporal_inf
+lh_S_temporal_sup_thickness,Lefthemi,0.42,-0.27,-0.19,0.79,mQC,lh_S_temporal_sup
+lh_S_temporal_transverse_thickness,Lefthemi,0.14,-0.07,0.57,0.49,mQC,lh_S_temporal_transverse
+lh_MeanThickness_thickness,Lefthemi,0.5,-0.34,-0.35,0.88,mQC,lh_MeanThickness
+rh_G&S_frontomargin_thickness,Righthemi,0.25,-0.14,0.22,1.07,mQC,rh_G_and_S_frontomargin
+rh_G&S_occipital_inf_thickness,Righthemi,0.13,-0.05,0.14,0.31,mQC,rh_G_and_S_occipital_inf
+rh_G&S_paracentral_thickness,Righthemi,0.29,-0.16,0.03,0.57,mQC,rh_G_and_S_paracentral
+rh_G&S_subcentral_thickness,Righthemi,0.26,-0.14,0.09,0.32,mQC,rh_G_and_S_subcentral
+rh_G&S_transv_frontopol_thickness,Righthemi,0.33,-0.18,0.22,0.86,mQC,rh_G_and_S_transv_frontopol
+rh_G&S_cingul-Ant_thickness,Righthemi,0.33,-0.19,-0.02,1.0,mQC,rh_G_and_S_cingul-Ant
+rh_G&S_cingul-Mid-Ant_thickness,Righthemi,0.31,-0.18,-0.25,0.82,mQC,rh_G_and_S_cingul-Mid-Ant
+rh_G&S_cingul-Mid-Post_thickness,Righthemi,0.33,-0.2,-0.15,0.66,mQC,rh_G_and_S_cingul-Mid-Post
+rh_G_cingul-Post-dorsal_thickness,Righthemi,0.31,-0.18,-0.39,1.41,mQC,rh_G_cingul-Post-dorsal
+rh_G_cingul-Post-ventral_thickness,Righthemi,0.24,-0.14,-0.04,0.43,mQC,rh_G_cingul-Post-ventral
+rh_G_cuneus_thickness,Righthemi,0.51,-0.38,0.45,1.66,mQC,rh_G_cuneus
+rh_G_front_inf-Opercular_thickness,Righthemi,0.39,-0.25,-0.06,0.49,mQC,rh_G_front_inf-Opercular
+rh_G_front_inf-Orbital_thickness,Righthemi,0.31,-0.18,0.01,0.64,mQC,rh_G_front_inf-Orbital
+rh_G_front_inf-Triangul_thickness,Righthemi,0.4,-0.25,-0.03,0.56,mQC,rh_G_front_inf-Triangul
+rh_G_front_middle_thickness,Righthemi,0.47,-0.32,-0.3,0.87,mQC,rh_G_front_middle
+rh_G_front_sup_thickness,Righthemi,0.43,-0.28,-0.26,0.67,mQC,rh_G_front_sup
+rh_G_Ins_lg&S_cent_ins_thickness,Righthemi,0.11,-0.05,0.05,0.04,mQC,rh_G_Ins_lg&S_cent_ins
+rh_G_insular_short_thickness,Righthemi,0.14,-0.09,-0.02,0.1,mQC,rh_G_insular_short
+rh_G_occipital_middle_thickness,Righthemi,0.32,-0.19,-0.24,1.28,mQC,rh_G_occipital_middle
+rh_G_occipital_sup_thickness,Righthemi,0.33,-0.21,-0.02,0.47,mQC,rh_G_occipital_sup
+rh_G_oc-temp_lat-fusifor_thickness,Righthemi,0.22,-0.12,-0.01,0.49,mQC,rh_G_oc-temp_lat-fusifor
+rh_G_oc-temp_med-Lingual_thickness,Righthemi,0.53,-0.42,0.25,0.9,mQC,rh_G_oc-temp_med-Lingual
+rh_G_oc-temp_med-Parahip_thickness,Righthemi,0.15,-0.08,-0.08,0.22,mQC,rh_G_oc-temp_med-Parahip
+rh_G_orbital_thickness,Righthemi,0.32,-0.17,0.04,0.5,mQC,rh_G_orbital
+rh_G_pariet_inf-Angular_thickness,Righthemi,0.4,-0.23,-0.29,1.0,mQC,rh_G_pariet_inf-Angular
+rh_G_pariet_inf-Supramar_thickness,Righthemi,0.36,-0.22,-0.19,0.45,mQC,rh_G_pariet_inf-Supramar
+rh_G_parietal_sup_thickness,Righthemi,0.43,-0.28,-0.07,0.41,mQC,rh_G_parietal_sup
+rh_G_postcentral_thickness,Righthemi,0.26,-0.14,0.16,0.61,mQC,rh_G_postcentral
+rh_G_precentral_thickness,Righthemi,0.24,-0.14,-0.67,1.73,mQC,rh_G_precentral
+rh_G_precuneus_thickness,Righthemi,0.4,-0.25,-0.01,0.45,mQC,rh_G_precuneus
+rh_G_rectus_thickness,Righthemi,0.2,-0.09,0.0,0.96,mQC,rh_G_rectus
+rh_G_subcallosal_thickness,Righthemi,0.11,-0.06,0.31,0.17,mQC,rh_G_subcallosal
+rh_G_temp_sup-G_T_transv_thickness,Righthemi,0.26,-0.14,0.07,0.41,mQC,rh_G_temp_sup-G_T_transv
+rh_G_temp_sup-Lateral_thickness,Righthemi,0.26,-0.12,-0.08,0.42,mQC,rh_G_temp_sup-Lateral
+rh_G_temp_sup-Plan_polar_thickness,Righthemi,0.17,-0.1,-0.04,0.27,mQC,rh_G_temp_sup-Plan_polar
+rh_G_temp_sup-Plan_tempo_thickness,Righthemi,0.27,-0.15,0.03,0.41,mQC,rh_G_temp_sup-Plan_tempo
+rh_G_temporal_inf_thickness,Righthemi,0.23,-0.13,-0.05,0.48,mQC,rh_G_temporal_inf
+rh_G_temporal_middle_thickness,Righthemi,0.36,-0.22,-0.2,0.7,mQC,rh_G_temporal_middle
+rh_Lat_Fis-ant-Horizont_thickness,Righthemi,0.23,-0.12,0.34,1.04,mQC,rh_Lat_Fis-ant-Horizont
+rh_Lat_Fis-ant-Vertical_thickness,Righthemi,0.14,-0.07,0.65,1.48,mQC,rh_Lat_Fis-ant-Vertical
+rh_Lat_Fis-post_thickness,Righthemi,0.33,-0.2,-0.02,1.14,mQC,rh_Lat_Fis-post
+rh_Pole_occipital_thickness,Righthemi,0.24,-0.13,0.12,0.47,mQC,rh_Pole_occipital
+rh_Pole_temporal_thickness,Righthemi,0.14,-0.05,-0.15,0.54,mQC,rh_Pole_temporal
+rh_S_calcarine_thickness,Righthemi,0.52,-0.38,0.33,1.28,mQC,rh_S_calcarine
+rh_S_central_thickness,Righthemi,0.33,-0.19,0.04,0.94,mQC,rh_S_central
+rh_S_cingul-Marginalis_thickness,Righthemi,0.4,-0.24,-0.2,0.75,mQC,rh_S_cingul-Marginalis
+rh_S_circular_insula_ant_thickness,Righthemi,0.19,-0.09,0.01,0.49,mQC,rh_S_circular_insula_ant
+rh_S_circular_insula_inf_thickness,Righthemi,0.27,-0.15,0.2,0.64,mQC,rh_S_circular_insula_inf
+rh_S_circular_insula_sup_thickness,Righthemi,0.35,-0.21,-0.24,0.92,mQC,rh_S_circular_insula_sup
+rh_S_collat_transv_ant_thickness,Righthemi,0.12,-0.05,0.56,1.43,mQC,rh_S_collat_transv_ant
+rh_S_collat_transv_post_thickness,Righthemi,0.21,-0.11,0.31,0.87,mQC,rh_S_collat_transv_post
+rh_S_front_inf_thickness,Righthemi,0.39,-0.24,-0.43,1.77,mQC,rh_S_front_inf
+rh_S_front_middle_thickness,Righthemi,0.39,-0.24,-0.31,1.31,mQC,rh_S_front_middle
+rh_S_front_sup_thickness,Righthemi,0.37,-0.24,-0.32,1.43,mQC,rh_S_front_sup
+rh_S_interm_prim-Jensen_thickness,Righthemi,0.24,-0.13,0.57,1.72,mQC,rh_S_interm_prim-Jensen
+rh_S_intrapariet&P_trans_thickness,Righthemi,0.43,-0.27,-0.21,0.92,mQC,rh_S_intrapariet&P_trans
+rh_S_oc_middle&Lunatus_thickness,Righthemi,0.21,-0.12,0.14,0.74,mQC,rh_S_oc_middle&Lunatus
+rh_S_oc_sup&transversal_thickness,Righthemi,0.31,-0.18,-0.02,0.92,mQC,rh_S_oc_sup&transversal
+rh_S_occipital_ant_thickness,Righthemi,0.18,-0.09,0.28,0.6,mQC,rh_S_occipital_ant
+rh_S_oc-temp_lat_thickness,Righthemi,0.13,-0.07,0.47,1.53,mQC,rh_S_oc-temp_lat
+rh_S_oc-temp_med&Lingual_thickness,Righthemi,0.36,-0.25,0.16,0.44,mQC,rh_S_oc-temp_med&Lingual
+rh_S_orbital_lateral_thickness,Righthemi,0.25,-0.14,0.13,1.71,mQC,rh_S_orbital_lateral
+rh_S_orbital_med-olfact_thickness,Righthemi,0.2,-0.08,0.7,3.9,mQC,rh_S_orbital_med-olfact
+rh_S_orbital-H_Shaped_thickness,Righthemi,0.33,-0.21,0.15,0.83,mQC,rh_S_orbital-H_Shaped
+rh_S_parieto_occipital_thickness,Righthemi,0.39,-0.24,-0.12,0.61,mQC,rh_S_parieto_occipital
+rh_S_pericallosal_thickness,Righthemi,0.11,-0.09,0.87,1.37,mQC,rh_S_pericallosal
+rh_S_postcentral_thickness,Righthemi,0.42,-0.26,-0.08,0.76,mQC,rh_S_postcentral
+rh_S_precentral-inf-part_thickness,Righthemi,0.3,-0.18,-0.43,1.41,mQC,rh_S_precentral-inf-part
+rh_S_precentral-sup-part_thickness,Righthemi,0.24,-0.14,-0.57,1.78,mQC,rh_S_precentral-sup-part
+rh_S_suborbital_thickness,Righthemi,0.09,-0.05,0.66,0.75,mQC,rh_S_suborbital
+rh_S_subparietal_thickness,Righthemi,0.28,-0.17,0.07,0.71,mQC,rh_S_subparietal
+rh_S_temporal_inf_thickness,Righthemi,0.17,-0.09,0.18,0.86,mQC,rh_S_temporal_inf
+rh_S_temporal_sup_thickness,Righthemi,0.42,-0.26,-0.17,0.65,mQC,rh_S_temporal_sup
+rh_S_temporal_transverse_thickness,Righthemi,0.15,-0.08,0.2,0.28,mQC,rh_S_temporal_transverse
+rh_MeanThickness_thickness,Righthemi,0.49,-0.34,-0.29,0.73,mQC,rh_MeanThickness
+Left-Lateral-Ventricle,Subcortical,0.42,-0.43,0.6,0.71,mQC,Left-Lateral-Ventricle
+Left-Inf-Lat-Vent,Subcortical,0.26,-0.17,0.3,0.86,mQC,Left-Inf-Lat-Vent
+Left-Cerebellum-White-Matter,Subcortical,0.25,-0.16,0.53,2.21,mQC,Left-Cerebellum-White-Matter
+Left-Cerebellum-Cortex,Subcortical,0.31,-0.19,-0.4,4.09,mQC,Left-Cerebellum-Cortex
+Left-Thalamus-Proper,Subcortical,0.61,-0.54,0.23,1.15,mQC,Left-Thalamus-Proper
+Left-Caudate,Subcortical,0.32,-0.23,0.12,0.59,mQC,Left-Caudate
+Left-Putamen,Subcortical,0.49,-0.38,-0.18,0.96,mQC,Left-Putamen
+Left-Pallidum,Subcortical,0.42,-0.3,-0.04,0.73,mQC,Left-Pallidum
+3rd-Ventricle,Subcortical,0.5,-0.5,0.73,1.34,mQC,3rd-Ventricle
+4th-Ventricle,Subcortical,0.08,-0.04,0.32,0.34,mQC,4th-Ventricle
+Brain-Stem,Subcortical,0.38,-0.26,0.08,0.36,mQC,Brain-Stem
+Left-Hippocampus,Subcortical,0.26,-0.14,-0.08,0.8,mQC,Left-Hippocampus
+Left-Amygdala,Subcortical,0.29,-0.16,-0.07,0.82,mQC,Left-Amygdala
+CSF,Subcortical,0.28,-0.2,0.69,1.97,mQC,CSF
+Left-Accumbens-area,Subcortical,0.6,-0.49,-0.04,0.39,mQC,Left-Accumbens-area
+Left-VentralDC,Subcortical,0.29,-0.17,0.16,0.33,mQC,Left-VentralDC
+Left-vessel,Subcortical,0.14,-0.08,0.1,0.73,mQC,Left-vessel
+Left-choroid-plexus,Subcortical,0.57,-0.42,-0.02,0.43,mQC,Left-choroid-plexus
+Right-Lateral-Ventricle,Subcortical,0.43,-0.44,0.57,0.65,mQC,Right-Lateral-Ventricle
+Right-Inf-Lat-Vent,Subcortical,0.2,-0.12,0.16,0.76,mQC,Right-Inf-Lat-Vent
+Right-Cerebellum-White-Matter,Subcortical,0.28,-0.19,0.69,2.88,mQC,Right-Cerebellum-White-Matter
+Right-Cerebellum-Cortex,Subcortical,0.29,-0.17,-0.38,4.57,mQC,Right-Cerebellum-Cortex
+Right-Thalamus-Proper,Subcortical,0.58,-0.48,0.18,0.77,mQC,Right-Thalamus-Proper
+Right-Caudate,Subcortical,0.33,-0.23,0.17,0.57,mQC,Right-Caudate
+Right-Putamen,Subcortical,0.45,-0.34,-0.08,0.81,mQC,Right-Putamen
+Right-Pallidum,Subcortical,0.29,-0.18,0.05,0.6,mQC,Right-Pallidum
+Right-Hippocampus,Subcortical,0.25,-0.15,-0.06,0.61,mQC,Right-Hippocampus
+Right-Amygdala,Subcortical,0.29,-0.17,-0.01,0.38,mQC,Right-Amygdala
+Right-Accumbens-area,Subcortical,0.36,-0.26,0.07,0.5,mQC,Right-Accumbens-area
+Right-VentralDC,Subcortical,0.3,-0.17,0.17,0.5,mQC,Right-VentralDC
+Right-vessel,Subcortical,0.23,-0.11,0.14,1.27,mQC,Right-vessel
+Right-choroid-plexus,Subcortical,0.61,-0.4,0.0,0.43,mQC,Right-choroid-plexus
+SubCortGrayVol,Subcortical,0.47,-0.34,0.0,0.23,mQC,SubCortGrayVol
+TotalGrayVol,Subcortical,0.62,-0.49,-0.1,0.22,mQC,TotalGrayVol
+SupraTentorialVol,Subcortical,0.35,-0.2,0.0,0.18,mQC,SupraTentorialVol
+SupraTentorialVolNotVent,Subcortical,0.37,-0.23,-0.01,0.17,mQC,SupraTentorialVolNotVent
+avg_thickness,Subcortical,0.51,-0.36,-0.32,0.82,mQC,avg
+EstimatedTotalIntraCranialVol,Subcortical,0.36,-0.22,-0.28,1.54,mQC,EstimatedTotalIntraCranialVol
