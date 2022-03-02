@@ -3,7 +3,7 @@ FROM jupyter/scipy-notebook
 COPY models/* models/
 COPY docs/* docs/
 COPY elife-72904.xml.media/* elife-72904.xml.media/
-COPY elife-72904.ipynb ./
+COPY elife-72904_article_code.ipynb ./
 COPY nm_utils.py ./
 COPY requirements.txt ./
 
